@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">While_Youre_Out</string>
+    <string name="Add_Reminder">Add Reminder</string>
+    <string name="hint_word">Reminder...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Reminder not saved because it is empty.</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="title_activity_new_maps">Map</string>
+    <string name="returns_back_to_the_main_activity">Returns back to the Main Activity</string>
+    <string name="set_reminder_name">Set Reminder Name</string>
+    <string name="name_the_reminder">Name the reminder</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_new_reminder">NewReminder</string>
+    <string name="marker_on_map">marker on map</string>
+    <string name="drag_the_bar_to_set_how_far_away_you_want_to_be_reminded">Drag the bar to set how far away you want to be reminded</string>
+    <string name="what_do_you_need_to_remember">What Do You Need To Remember?</string>
+    <string name="remind_me">Remind Me!</string>
+    <string name="radius_description"> 100 Feet </string>
+    <string name="set_the_reminder_zone">Set The Reminder Zone</string>
+    <string name="reminder_added">Reminder Added Successfully</string>
+    <string name="removal_warning">Are You Sure You Don\'t Need This Reminder?</string>
+    <string name="reminder_removed">The Reminder Has Been Removed</string>
+    <string name="reminder_not_removed">Reminder Not Removed</string>
+    <string name="error_required">Required</string>
+    <string name="unknown_error">Unknown Error: Geofence Currently Unavailable</string>
+    <string name="geofence_unavailable"><![CDATA[Geofencing Unavailable: Please turn on High Accuracy Location Settings under Settings > Location > Mode]]></string>
+    <string name="geofence_too_many_pending_intents">There are too many pending intents being sent to addGeofences()</string>
+    <string name="too_many_geofences">You can only have 100 reminders. Please remove one to continue.</string>
+    <string name="set_radius_size">How far away do you want to be reminded?</string>
+    <string name="drop_the_pin">Drop the pin on the location you want</string>
+    <string name="remove">REMOVE</string>
+</resources>

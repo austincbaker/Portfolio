@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">App3_C00265393</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="maps">Maps</string>
+    <string name="view_model">View Model</string>
+    <string name="display_website">Display Website</string>
+    <string name="toggle">toggle</string>
+    <string name="dollars">dollars</string>
+    <string name="total">Total</string>
+    <string name="money_conversion">Money Conversion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstnumber">firstNumber</string>
+    <string name="operandview">OperandView</string>
+    <string name="secondnumber">SecondNumber</string>
+    <string name="your_answer_here">Your Answer Here</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="math_problem">Math Problem</string>
+    <string name="new_problem">New Problem</string>
+    <string name="answer_will_be_displayed_here">Answer will be displayed here</string>
+</resources>

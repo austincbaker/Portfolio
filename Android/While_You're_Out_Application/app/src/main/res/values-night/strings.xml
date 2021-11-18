@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_Reminder">Add Reminder</string>
+
+    <string name="hint_word">Reminder...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Reminder not saved because it is empty.</string>
+    <string name="add_reminder">Add Reminder</string>
+</resources>

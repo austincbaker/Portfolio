@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">359 Proj 1</string>
+    <string name="hello_world">Hello World</string>
+    <string name="button">Button</string>
+    <string name="click_here_to_change_test">Click here to change test</string>
+</resources>

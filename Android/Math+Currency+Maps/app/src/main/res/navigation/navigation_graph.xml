@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_grapph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.app3_c00265393.ui.main.MainFragment"
+        android:label="main_fragment"
+        tools:layout="@layout/main_fragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_website"
+            app:destination="@id/websiteDisplay" />
+        <action
+            android:id="@+id/action_mainFragment_to_mapDisplay"
+            app:destination="@id/mapDisplay" />
+        <action
+            android:id="@+id/action_mainFragment_to_conversionDisplay"
+            app:destination="@id/conversionDisplay" />
+        <action
+            android:id="@+id/action_mainFragment_to_math_Problem"
+            app:destination="@id/math_Problem" />
+    </fragment>
+    <fragment
+        android:id="@+id/websiteDisplay"
+        android:name="com.example.app3_c00265393.Website"
+        android:label="fragment_website"
+        tools:layout="@layout/fragment_website" />
+    <fragment
+        android:id="@+id/conversionDisplay"
+        android:name="com.example.app3_c00265393.Conversion"
+        android:label="conversion_fragment" />
+    <fragment
+        android:id="@+id/mapDisplay"
+        android:name="com.example.app3_c00265393.mapDisplay"
+        android:label="fragment_map_display"
+        tools:layout="@layout/fragment_map_display" />
+    <fragment
+        android:id="@+id/math_Problem"
+        android:name="com.example.app3_c00265393.Math_Problem"
+        android:label="fragment_math__problem"
+        tools:layout="@layout/fragment_math__problem" />
+</navigation>
