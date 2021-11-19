@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zYKPbOEdLBITPD2pSDfmwhMJBAsWVwlftCKHXW2X9QqK+IMYLy5XJ2WC/GmP3k/ev4EJW+LjrJuXZaSO51F6IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Austin\\source\\repos\\Screen Capture\\Screen Capture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Austin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Austin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
