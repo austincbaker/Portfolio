@@ -8,7 +8,6 @@ import javax.crypto.spec.SecretKeySpec;
 import java.io.*;
 import java.net.InetAddress;
 import java.net.Socket;
-import java.net.UnknownHostException;
 import java.nio.charset.StandardCharsets;
 import java.security.*;
 import java.security.spec.InvalidKeySpecException;
@@ -93,7 +92,7 @@ public class AustinClient {
         String decryptEnterName = aes.decrypt(dis.readUTF(),decryptedPassword);
 
         System.out.println("The chat history:");
-        chatHistory();
+        /*chatHistory();*/
         while(!decryptEnterName.equalsIgnoreCase("Enter your Name: "))
         {
             //
@@ -114,17 +113,12 @@ public class AustinClient {
 
                     System.out.println(d.getTime());
                     System.out.println(message);
-                    writeToHistory(msg);
+                    /*writeToHistory(msg);*/
                     dos.writeUTF(message);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-                //System.out.println("Message being sent to the server: " + msg + "\n");
-                /*if(msg.length() > 0) {
-
-                    //System.out.println("Encrypted msg being sent to server: " + message + "\n");
-
-                }*/
+                System.out.println("Message being sent to the server: " + msg + "\n");
                 assert true;
             }
         });
@@ -139,15 +133,19 @@ public class AustinClient {
                     System.out.println("The encrypted message we received: " + receivedMsg + "\n");
 
                     //split the message into sender and message
-                    StringTokenizer stringTokenizer = new StringTokenizer(receivedMsg, "@");
+                    String fullmsg = aes.decrypt(receivedMsg, password);
+                    StringTokenizer stringTokenizer = new StringTokenizer(fullmsg, "@");
+                    System.out.println(fullmsg);
                     String messageSender = stringTokenizer.nextToken().trim();
+
+                    System.out.println(messageSender);
                     String encryptedMsg = aes.decrypt(stringTokenizer.nextToken().trim(),password);
                     // remove the original @recipient
-                    stringTokenizer = new StringTokenizer(encryptedMsg, "@");
+                    stringTokenizer = new StringTokenizer(encryptedMsg, " :@ ");
                     String decryptedMessage = stringTokenizer.nextToken();
                     System.out.println("Unencrypted message:\n");
                     System.out.println(messageSender +" " + decryptedMessage);
-                    writeToHistory(messageSender +" " + decryptedMessage);
+                    /*writeToHistory(messageSender +" " + decryptedMessage);*/
 
                 } catch (IOException e) {
                     System.out.println("The error is in decrypt");
@@ -160,13 +158,13 @@ public class AustinClient {
         sendMessage.start();
         readMessage.start();
     }
-
+/*
     private static void writeToHistory(String s) throws IOException {
         bw.write(s);
         bw.newLine();
         bw.flush();
-    }
-
+    }*/
+/*
     private static void chatHistory() throws IOException {
         File f = new File("C:/413ChatApp/chatHistory.txt");
         if (!f.exists()) {
@@ -176,7 +174,7 @@ public class AustinClient {
         while(scanner.hasNextLine()){
             System.out.println(scanner.nextLine());
         }
-    }
+    }*/
 }
 
 class ClientRsa {
