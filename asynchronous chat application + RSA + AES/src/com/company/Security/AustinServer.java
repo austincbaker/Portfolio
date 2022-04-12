@@ -135,8 +135,8 @@ class ClientList implements Runnable {
                         System.out.println("Decrypted msg null \n");
                         return;
                     }
-                    //System.out.println(decryptedMsg);
-                    //System.out.println("Decrypted Message");
+                    System.out.println(decryptedMsg);
+                    System.out.println("Decrypted Message");
                     if (fromClient.equals("bye")) {
                         this.isloggedin = false;
                         this.socket.close();
@@ -146,15 +146,15 @@ class ClientList implements Runnable {
                     StringTokenizer stringTokenizer = new StringTokenizer(decryptedMsg, "@");
                     String messageSending = stringTokenizer.nextToken().trim();
                     String recipient = stringTokenizer.nextToken().trim();
-                    //System.out.println("Recipient: " + recipient + "\n");
-                    //System.out.println("MessageSending: " + messageSending + "\n");
+                    System.out.println("Recipient: " + recipient + "\n");
+                    System.out.println("MessageSending: " + messageSending + "\n");
 
 
                     // search for the recipient in the connected devices list.
                     // clientListVector is the vector storing client of active users
                     for (ClientList mc : AustinServer.clientListVector) {
                         String lookingFor = mc.name;
-                        //System.out.println("Name to match: " + recipient);
+                        System.out.println("Name to match: " + recipient);
                         // if the recipient is found, write on its
                         // output stream
                         if (recipient.equalsIgnoreCase(lookingFor)) {
@@ -163,17 +163,17 @@ class ClientList implements Runnable {
                         }
                     }
                     if (recipient.equalsIgnoreCase("all")) {
-                        //System.out.println("Writing to all");
+                        System.out.println("Writing to all");
                         for (ClientList mc2 : AustinServer.clientListVector) {
                             if (!this.name.equalsIgnoreCase(mc2.name)) {
-                                //System.out.println(this.name + " equals " + mc2.name + "\n");
-                                //System.out.println(mc2.name + "Got the message");
+                                System.out.println(this.name + " !equals " + mc2.name + "\n");
+                                System.out.println(mc2.name + "Got the message");
                                 mc2.dataOutputStream.writeUTF(serverAes.encrypt((this.name + " :@ " + fromClient),password));
                                 dataOutputStream.flush();
                             }
                         }
                     }
-               // }
+                    // }
                 }/*
                 else {
                     return;
@@ -272,7 +272,6 @@ class ServerRsaU {
         } catch (NoSuchAlgorithmException e) {
             System.err.println(e.getMessage());
         }
-
     }*/
 }
 class ServerPass {
