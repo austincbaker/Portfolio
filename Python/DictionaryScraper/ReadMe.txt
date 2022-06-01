@@ -1,1 +1,2 @@
 This application will take a text document and define each unique word contained inside as long as it can be found on dictionary.com. It will take the top definition and write it to a separate output file that you will choose.
+Please see the requirements.txt for additional

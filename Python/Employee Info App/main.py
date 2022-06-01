@@ -22,61 +22,54 @@ def menu():
 
     employeeList = main()
 
-    startup = input("Would you like to access the main menu? (yes or no) ")
+    print("1) Display Employee Information Table")
+    print("2) Query Employee Information")
+    print("3) Display Employee with Min/Max Gross Pay")
+    print("4) Exit")
 
-    while startup == "yes":
-        print("1) Display Employee Information Table")
-        print("2) Query Employee Information")
-        print("3) Display Employee with Min/Max Gross Pay")
-        print("4) Exit")
+    print("")
 
-        print("")
+    menuOption = eval(input("Which function would you like to preform? "))
 
-        menuOption = eval(input("Which function would you like to preform? "))
-
-        print("")
-        
-        if menuOption == 1:
-            table()
+    print("")
     
-        elif menuOption == 2:
-            num = eval(input("Enter employee ID: "))
-            print("-" *50)
+    if menuOption == 1:
+        table()
 
-            print("Employee\t\tHours\t Rate\t     Pay")
+    elif menuOption == 2:
+        num = eval(input("Enter employee ID: "))
+        print("-" *50)
 
-            print("-" *50)
+        print("Employee\t\tHours\t Rate\t     Pay")
 
-            print(format(employeeList[num].GetName(), "20s"),format(employeeList[num].GetHours(), "6.0f"), "    " ,format(employeeList[num].GetRate(), "5.2f"), '\t' , format(employeeList[num].GetGrossPay(), "9.2f"))
-                       
-        elif menuOption == 3:
-           minMaxPay()
+        print("-" *50)
 
-        elif menuOption == 4:
-            print("Goodbye!")
-            break
-        
-        else:
-           print("Sorry that's not a valid choice, please try again.")
-           print("")
+        print(format(employeeList[num].GetName(), "20s"),format(employeeList[num].GetHours(), "6.0f"), "    " ,format(employeeList[num].GetRate(), "5.2f"), '\t' , format(employeeList[num].GetGrossPay(), "9.2f"))
+                    
+    elif menuOption == 3:
+        minMaxPay()
 
-    if startup == "no":
+    elif menuOption == 4:
         print("Goodbye!")
+    
+    else:
+        print("Sorry that's not a valid choice, please try again.")
+        print("")
+        menu()
+
 
     
 
 def main():
-    infileName = open("names.py", 'r')
-    infileRates = open("rates.py", 'r')
-    infileHours = open("hours.py", 'r')
+    infileName = open("Python/Employee Info App/names.txt", 'r')
+    infileRates = open("Python/Employee Info App/rates.txt", 'r')
+    infileHours = open("Python/Employee Info App/hours.txt", 'r')
 
     name = infileName.readline().strip()
     rate = eval(infileRates.readline())
     hours = eval(infileHours.readline())
 
     employeeList = []
-
-    num = 1
 
     while rate != -99.99:
 
@@ -151,10 +144,8 @@ def minMaxPay():
 
     print("")
     
-menu()
-
-
-        
+if __name__ == '__main__':
+    menu()
 
     
     

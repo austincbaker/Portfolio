@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Austin\Desktop\ZoomRecordingApp\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+#Added by AUstin
+Python/Mission Maker
+
+C#/Screen Capture(Part of zoom App)/.vs
+C#/Screen Capture(Part of zoom App)/obj
+C#/Screen Capture(Part of zoom App)/Screen Capture.csproj
+C#/Screen Capture(Part of zoom App)/Screen Capture.sln
+
+asynchronous chat application + RSA + AES/.idea

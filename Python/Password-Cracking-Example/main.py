@@ -10,8 +10,8 @@ def read_file(name):
 def main():
     username = []
     password = []
-    rock_u = read_file("rockyou_500Thousand.txt")
-    shadow = read_file("MyShadow.txt")
+    rock_u = read_file("Python/Password-Cracking-Example/rockyou_500Thousand.txt")
+    shadow = read_file("Python/Password-Cracking-Example/MyShadow.txt")
     entry = []
     salt = 'RT'
     for i in range(len(shadow)):
