@@ -2,4 +2,3 @@ Thank you for viewing my portfolio. If there are any questions about the code in
 
 Email: austincbaker1991@gmail.com
 
-Phone: 734 883 7377
