@@ -96,9 +96,9 @@ def startMenu():
 ### Tests to see if desired file exists, creates it if not ###
 def testForFile():
     try:
-        infile = open("Mission Creator.txt", 'r')
+        infile = open("Python/Mission Maker/Mission_Creator.txt", 'r')
     except FileNotFoundError:
-        fileCreator = open("Mission Creator.txt", 'w+')
+        fileCreator = open("Python/Mission Maker/Mission_Creator.txt", 'w+')
         print("This file didn't exist, but now it does! Try creating a new mission!")
         missionMaker()
         startMenu()
@@ -109,13 +109,13 @@ def testForFile():
 def openForReading():
     missionList = []
     nameSentinel = ""
-    infile = open("Mission Creator.txt", 'r')
+    infile = open("Python/Mission Maker/Mission_Creator.txt", 'r')
     missionName = infile.readline().strip()
     if missionName == "":
         infile.close()
         print("It looks like you don't have any missions in there, try making one!")
         missionMaker()
-        infile = open("Mission Creator.txt", 'r')
+        infile = open("Python/Mission Maker/Mission_Creator.txt", 'r')
         missionName = infile.readline().strip()        
     while missionName != nameSentinel :
         missionType = infile.readline().strip()
@@ -136,7 +136,7 @@ def openForReading():
 
 ### Replaces a specific line of text in the file ###
 def replaceLine(lineNumber, text):
-    fileName = "Mission Creator.txt"
+    fileName = "Python/Mission Maker/Mission_Creator.txt"
     linesRead = open(fileName, 'r+').readlines()
     linesRead[lineNumber] = (text + "\n")
     out = open(fileName, 'w+')
@@ -149,7 +149,7 @@ def findTotalNumberOfLines():
     testForFile()
     nameSentinel = ""
     counter = 0
-    infile = open("Mission Creator.txt", 'r')
+    infile = open("Python/Mission Maker/Mission_Creator.txt", 'r')
     reader = infile.readline()
     while reader != nameSentinel :
         reader = infile.readline()
@@ -162,7 +162,7 @@ def findTotalNumberOfLines():
 def findLinesToMission(missionName):
     nameSentinel = str(missionName)
     counter = 0
-    infile = open("Mission Creator.txt", 'r')
+    infile = open("Python/Mission Maker/Mission_Creator.txt", 'r')
     listEnd = findTotalNumberOfLines()
     finder = infile.readline().strip()
     while finder != nameSentinel:
@@ -184,7 +184,7 @@ def findLinesToMission(missionName):
 ### Writes and appends to a text file named Character List, creates file if necessary ###
 ### Variables based in characterBuilder() ###
 def fileWriting(newFile,listName,i):
-    openFile = open("Mission Creator.txt", 'a+')
+    openFile = open("Python/Mission Maker/Mission_Creator.txt", 'a+')
     if newFile == 1:
         openFile.write(listName[i].getMissionName())
         openFile.write("\n")

@@ -70,9 +70,9 @@ def startMenu():
 ### Tests to see if desired file exists, creates it if not ###
 def testForFile():
     try:
-        infile = open("Character List.txt", 'r')
+        infile = open("Python/Mission Maker/Character_List.txt", 'r')
     except FileNotFoundError:
-        fileCreator = open("Character List.txt", 'w+')
+        fileCreator = open("Python/Mission Maker/Character_List.txt", 'w+')
         print("This file didn't exist, but now it does and we created a character to get you started!")
         randomCharacter(1,1)
         startMenu()
@@ -83,13 +83,13 @@ def testForFile():
 def openForReading():
     testForFile()
     nameSentinel = ""
-    infile = open("Character List.txt", 'r')
+    infile = open("Python/Mission Maker/Character_List.txt", 'r')
     existingName = infile.readline().strip()
     if existingName == "":
         infile.close()
         print("It looks like you didn't have any charactes in there, so I made you one!")
         randomCharacter(0,1)
-        infile = open("Character List.txt", 'r')
+        infile = open("Python/Mission Maker/Character_List.txt", 'r')
         existingName = infile.readline().strip()    
     existingGender = infile.readline().strip()
     existingRace = infile.readline().strip()
@@ -110,7 +110,7 @@ def openForReading():
 
 ### Replaces a specific line of text in the file ###
 def replaceLine(lineNumber, text):
-    fileName = "Character List.txt"
+    fileName = "Python/Mission Maker/Character_List.txt"
     linesRead = open(fileName, 'r+').readlines()
     linesRead[lineNumber] = (text + "\n")
     out = open(fileName, 'w+')
@@ -122,7 +122,7 @@ def replaceLine(lineNumber, text):
 def findTotalNumberOfLines():
     nameSentinel = ""
     counter = 0
-    infile = open("Character List.txt", 'r')
+    infile = open("Python/Mission Maker/Character_List.txt", 'r')
     reader = infile.readline()
     while reader != nameSentinel :
         reader = infile.readline()
@@ -137,7 +137,7 @@ def findTotalNumberOfLines():
 def findLinesToCharacter(name):
     nameSentinel = str(name)
     counter = 0
-    infile = open("Character List.txt", 'r')
+    infile = open("Python/Mission Maker/Character_List.txt", 'r')
     listEnd = findTotalNumberOfLines()
     finder = infile.readline().strip()
     while finder != nameSentinel:
@@ -159,7 +159,7 @@ def findLinesToCharacter(name):
 ### Writes and appends to a text file named Character List, creates file if necessary ###
 ### Variables based in characterBuilder() ###
 def fileWriting(newFile,listName,i):
-    openFile = open("Character List.txt", 'a+')
+    openFile = open("Python/Mission Maker/Character_List.txt", 'a+')
     if newFile == 1:
         openFile.write(listName[i].getName())
         openFile.write("\n")
@@ -332,7 +332,7 @@ def randomCharacter(newFile, numToCreate):
 
     listOfRaces = ["Dragonborn","Dwarf","Elf","Half Elf",'Half Orc','Halfling','Human','Tiefling','Aarakocra','Aasimar','Bug Bear','Firbolg','Goblin','Grung','Hobgoblin','Kenku','Kobold','Lizardfolk','Orc','Tabaxi','Triton','Yuan-Ti', 'Pureblood','Changeling','Eladrin','Genasi','Goliath','Minotaur','Shifter','Warforged', 'Gith']
     listOfClasses = ['Barbarian','Bard','Cleric','Druid','Fighter','Monk','Paladin','Ranger','Rogue','Sorcerer','Warlock','Wizard']
-    nameListFile = open("Character Name List.txt", 'r')
+    nameListFile = open("Python/Mission Maker/Characte_ Name_List.txt", 'r')
     readNameToList = nameListFile.readline().strip()
     listOfNames = []
     while readNameToList != "-1":
