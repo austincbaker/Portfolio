@@ -31,7 +31,7 @@ class Conversion : Fragment() {
                 viewModel.setConversionAmount(dollarsEntry.text.toString())
                 conversionOutput.text = viewModel.getConversionAmount()
             } else {
-                conversionOutput.text = "Nuttin'"
+                conversionOutput.text = "Nothing"
             }
         }
     }
