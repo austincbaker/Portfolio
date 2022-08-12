@@ -8,7 +8,7 @@ RockYou password list.
 
 ![Screenshot](password-examples.png)
 
-It then decrypts the usernames and passwords, displaying them in plaintext. 
+It then decrypts the usernames and passwords, if they are found in the RockYou file, displaying them in plaintext. 
 
 ![Screenshot](output.png)
 
