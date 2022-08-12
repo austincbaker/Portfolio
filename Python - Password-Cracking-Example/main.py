@@ -3,17 +3,20 @@ import hashlib
 def read_file(name):
     with open(name) as f:
         lines = f.readlines()
-
     return lines
-
 
 def main():
     username = []
     password = []
-    rock_u = read_file("Python/Password-Cracking-Example/rockyou_500Thousand.txt")
-    shadow = read_file("Python/Password-Cracking-Example/MyShadow.txt")
+    
+    filepath_roc_u = os.path.join(os.getcwd(),"rockyou_500Thousand.txt")
+    filepath_shadow = os.path.join(os.getcwd(),"MyShadow.txt")
+    rock_u = read_file(filepath_roc_u)
+    shadow = read_file(filepath_shadow)
+    
     entry = []
     salt = 'RT'
+    
     for i in range(len(shadow)):
         entry.append(shadow[i])
         temp = entry[i].replace(':', '-')
