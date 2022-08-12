@@ -1,4 +1,5 @@
 import hashlib
+import os
 
 def read_file(name):
     with open(name) as f:
