@@ -1,0 +1,3485 @@
+{
+  "bodyslam": {
+    "no_group": [
+      "bodyslam_facebook_001.mp4"
+    ]
+  },
+  "chase": {
+    "chase_1": [
+      "chase_1_trim_0.mp4",
+      "chase_1_trim_1.mp4",
+      "chase_1_trim_2.mp4"
+    ],
+    "chase_2": [
+      "chase_2_trim_1.mp4",
+      "chase_2_trim_2.mp4"
+    ],
+    "chase_3": [
+      "chase_3_trim_1.mp4",
+      "chase_3_trim_2.mp4",
+      "chase_3_trim_3.mp4",
+      "chase_3_trim_4.mp4"
+    ],
+    "chase_4": [
+      "chase_4_trim_0.mp4"
+    ],
+    "chase_5": [
+      "chase_5_trim_0.mp4",
+      "chase_5_trim_1.mp4",
+      "chase_5_trim_2.mp4"
+    ]
+  },
+  "choke": {
+    "Choke_facebook_1": [
+      "choke_facebook_001.mp4",
+      "choke_facebook_002.mp4",
+      "choke_facebook_003.mp4",
+      "choke_facebook_004.mp4",
+      "choke_facebook_005.mp4",
+      "choke_facebook_006.mp4"
+    ],
+    "Choke_facebook_2": [
+      "choke_facebook_007.mp4",
+      "choke_facebook_008.mp4"
+    ],
+    "no_group": [
+      "choke_rwf_2000_1.mp4",
+      "choke_rwf_2000_11.mp4",
+      "choke_rwf_2000_2.mp4",
+      "choke_rwf_2000_3.mp4",
+      "choke_rwf_2000_4.mp4",
+      "choke_rwf_2000_5.mp4",
+      "choke_rwf_2000_8.mp4",
+      "choke_soap2day_003.mp4",
+      "choke_soap2day_004.mp4",
+      "choke_ucf_crime_1.mp4",
+      "choke_ucf_crime_10.mp4",
+      "choke_ucf_crime_15.mp4",
+      "choke_ucf_crime_16.mp4",
+      "choke_ucf_crime_17.mp4",
+      "choke_ucf_crime_18.mp4",
+      "choke_ucf_crime_7.mp4",
+      "choke_youtube_007.mp4",
+      "choke_youtube_008.mp4",
+      "choke_youtube_009.mp4",
+      "choke_youtube_010.mp4",
+      "choke_youtube_017.mp4",
+      "choke_youtube_018.mp4",
+      "choke_youtube_019.mp4",
+      "choke_youtube_020.mp4",
+      "choke_youtube_023.mp4",
+      "choke_youtube_026.mp4",
+      "choke_youtube_027.mp4",
+      "choke_youtube_031.mp4",
+      "choke_youtube_036.mp4",
+      "choke_youtube_037.mp4",
+      "choke_youtube_041.mp4",
+      "choke_youtube_049.mp4",
+      "choke_youtube_050.mp4"
+    ],
+    "Choke_youtube_1": [
+      "choke_youtube_047.mp4",
+      "choke_youtube_048.mp4"
+    ],
+    "Choke_youtube_10": [
+      "choke_ucf_crime_11.mp4",
+      "choke_ucf_crime_12.mp4",
+      "choke_ucf_crime_13.mp4",
+      "choke_ucf_crime_14.mp4"
+    ],
+    "Choke_youtube_11": [
+      "choke_youtube_034.mp4",
+      "choke_youtube_035.mp4"
+    ],
+    "Choke_youtube_12": [
+      "choke_youtube_024.mp4",
+      "choke_youtube_025.mp4"
+    ],
+    "Choke_youtube_13": [
+      "choke_youtube_021.mp4",
+      "choke_youtube_022.mp4"
+    ],
+    "Choke_youtube_14": [
+      "choke_youtube_032.mp4",
+      "choke_youtube_033.mp4"
+    ],
+    "Choke_youtube_15": [
+      "choke_youtube_045.mp4",
+      "choke_youtube_046.mp4"
+    ],
+    "Choke_youtube_16": [
+      "choke_rwf_2000_10.mp4",
+      "choke_rwf_2000_9.mp4"
+    ],
+    "Choke_youtube_17": [
+      "choke_rwf_2000_6.mp4",
+      "choke_rwf_2000_7.mp4"
+    ],
+    "Choke_youtube_18": [
+      "choke_soap2day_005.mp4",
+      "choke_soap2day_006.mp4"
+    ],
+    "Choke_youtube_2": [
+      "choke_youtube_015.mp4",
+      "choke_youtube_016.mp4"
+    ],
+    "Choke_youtube_20": [
+      "choke_youtube_028.mp4",
+      "choke_youtube_029.mp4",
+      "choke_youtube_030.mp4"
+    ],
+    "Choke_youtube_3": [
+      "choke_ucf_crime_4.mp4"
+    ],
+    "Choke_youtube_4": [
+      "choke_youtube_038.mp4",
+      "choke_youtube_039.mp4",
+      "choke_youtube_040.mp4"
+    ],
+    "Choke_youtube_5": [
+      "choke_youtube_042.mp4",
+      "choke_youtube_043.mp4",
+      "choke_youtube_044.mp4"
+    ],
+    "Choke_youtube_7": [
+      "choke_soap2day_001.mp4",
+      "choke_soap2day_002.mp4"
+    ],
+    "Choke_youtube_8": [
+      "choke_youtube_011.mp4",
+      "choke_youtube_012.mp4",
+      "choke_youtube_013.mp4",
+      "choke_youtube_014.mp4"
+    ],
+    "Choke_youtube_9": [
+      "choke_ucf_crime_8.mp4",
+      "choke_ucf_crime_9.mp4"
+    ],
+    "youtube_choke_19": [
+      "choke_chatgpt_001.mp4",
+      "choke_chatgpt_002.mp4",
+      "choke_chatgpt_003.mp4"
+    ]
+  },
+  "drag": {
+    "no_group": [
+      "drag_x_001.mp4",
+      "drag_x_002.mp4",
+      "drag_youtube_001.mp4",
+      "drag_youtube_002.mp4",
+      "drag_youtube_003.mp4",
+      "drag_youtube_004.mp4",
+      "drag_youtube_007.mp4",
+      "drag_youtube_008.mp4",
+      "drag_youtube_009.mp4",
+      "drag_youtube_010.mp4",
+      "drag_youtube_011.mp4",
+      "drag_youtube_012.mp4",
+      "drag_youtube_018.mp4",
+      "drag_youtube_019.mp4",
+      "drag_youtube_023.mp4",
+      "drag_youtube_024.mp4",
+      "drag_youtube_025.mp4"
+    ],
+    "Drag_youtube_1": [
+      "drag_youtube_013.mp4",
+      "drag_youtube_014.mp4",
+      "drag_youtube_015.mp4",
+      "drag_youtube_016.mp4",
+      "drag_youtube_017.mp4"
+    ],
+    "Drag_youtube_2": [
+      "drag_ucf_crime_1.mp4",
+      "drag_ucf_crime_2.mp4"
+    ],
+    "Drag_youtube_3": [
+      "drag_ucf_crime_3.mp4",
+      "drag_ucf_crime_4.mp4"
+    ],
+    "Drag_youtube_4": [
+      "drag_youtube_005.mp4",
+      "drag_youtube_006.mp4"
+    ],
+    "Drag_youtube_6": [
+      "drag_youtube_020.mp4",
+      "drag_youtube_021.mp4",
+      "drag_youtube_022.mp4"
+    ]
+  },
+  "elbow": {
+    "no_group": [
+      "elbow_youtube_001.mp4",
+      "elbow_youtube_002.mp4",
+      "elbow_youtube_003.mp4",
+      "elbow_youtube_004.mp4",
+      "elbow_youtube_005.mp4",
+      "elbow_youtube_006.mp4",
+      "elbow_youtube_007.mp4",
+      "elbow_youtube_008.mp4",
+      "elbow_youtube_009.mp4",
+      "elbow_youtube_010.mp4",
+      "elbow_youtube_011.mp4",
+      "elbow_youtube_012.mp4"
+    ]
+  },
+  "grab_clothing": {
+    "Grab_clothing_1": [
+      "grab_clothing_x_016.mp4",
+      "grab_clothing_x_017.mp4"
+    ],
+    "no_group": [
+      "grab_clothing_rwf_2000_87.mp4",
+      "grab_clothing_x_015.mp4",
+      "grab_clothing_youtube_001.mp4",
+      "grab_clothing_youtube_002.mp4",
+      "grab_clothing_youtube_003.mp4",
+      "grab_clothing_youtube_004.mp4",
+      "grab_clothing_youtube_005.mp4",
+      "grab_clothing_youtube_006.mp4",
+      "grab_clothing_youtube_007.mp4",
+      "grab_clothing_youtube_008.mp4",
+      "grab_clothing_youtube_009.mp4",
+      "grab_clothing_youtube_010.mp4",
+      "grab_clothing_youtube_011.mp4",
+      "grab_clothing_youtube_012.mp4",
+      "grab_clothing_youtube_013.mp4",
+      "grab_clothing_youtube_014.mp4"
+    ]
+  },
+  "hairgrab": {
+    "no_group": [
+      "hairgrab_dailymotion_001.mp4",
+      "hairgrab_facebook_001.mp4",
+      "hairgrab_rwf_2000_1.mp4",
+      "hairgrab_rwf_2000_3.mp4",
+      "hairgrab_rwf_2000_4.mp4",
+      "hairgrab_rwf_2000_5.mp4",
+      "hairgrab_soap2day_002.mp4",
+      "hairgrab_ucf_crime_1.mp4",
+      "hairgrab_x_009.mp4",
+      "hairgrab_x_010.mp4",
+      "hairgrab_x_011.mp4",
+      "hairgrab_x_012.mp4",
+      "hairgrab_x_013.mp4",
+      "hairgrab_x_014.mp4",
+      "hairgrab_x_015.mp4",
+      "hairgrab_x_016.mp4",
+      "hairgrab_x_017.mp4",
+      "hairgrab_youtube_007.mp4",
+      "hairgrab_youtube_008.mp4",
+      "hairgrab_youtube_009.mp4",
+      "hairgrab_youtube_012.mp4",
+      "hairgrab_youtube_013.mp4"
+    ],
+    "hairgrab_facebook_1": [
+      "hairgrab_facebook_002.mp4",
+      "hairgrab_facebook_003.mp4",
+      "hairgrab_facebook_004.mp4",
+      "hairgrab_facebook_005.mp4"
+    ],
+    "hairgrab_instagram_1": [
+      "hairgrab_instagram_001.mp4",
+      "hairgrab_instagram_002.mp4",
+      "hairgrab_instagram_003.mp4",
+      "hairgrab_instagram_004.mp4"
+    ],
+    "hairgrab_youtube_1": [
+      "hairgrab_instagram_005.mp4",
+      "hairgrab_instagram_006.mp4"
+    ],
+    "hairgrab_youtube_2": [
+      "hairgrab_ucf_crime_2.mp4",
+      "hairgrab_ucf_crime_3.mp4"
+    ],
+    "hairgrab_youtube_3": [
+      "hairgrab_x_001.mp4",
+      "hairgrab_x_002.mp4",
+      "hairgrab_x_003.mp4"
+    ],
+    "hairgrab_youtube_4": [
+      "hairgrab_x_004.mp4",
+      "hairgrab_x_005.mp4",
+      "hairgrab_x_006.mp4",
+      "hairgrab_x_007.mp4",
+      "hairgrab_x_008.mp4"
+    ],
+    "hairgrab_youtube_5": [
+      "hairgrab_youtube_003.mp4",
+      "hairgrab_youtube_004.mp4",
+      "hairgrab_youtube_005.mp4",
+      "hairgrab_youtube_006.mp4"
+    ],
+    "hairgrab_youtube_6": [
+      "hairgrab_youtube_010.mp4",
+      "hairgrab_youtube_011.mp4"
+    ]
+  },
+  "headbutt": {
+    "no_group": [
+      "headbutt_youtube_001.mp4",
+      "headbutt_youtube_002.mp4",
+      "headbutt_youtube_003.mp4",
+      "headbutt_youtube_004.mp4",
+      "headbutt_youtube_005.mp4",
+      "headbutt_youtube_006.mp4",
+      "headbutt_youtube_007.mp4"
+    ]
+  },
+  "hit_with_an_object": {
+    "no_group": [
+      "hit_with_an_object_facebook_001.mp4",
+      "hit_with_an_object_instagram_001.mp4",
+      "hit_with_an_object_instagram_002.mp4",
+      "hit_with_an_object_rwf_2000_001.mp4",
+      "hit_with_an_object_rwf_2000_002.mp4",
+      "hit_with_an_object_rwf_2000_003.mp4",
+      "hit_with_an_object_rwf_2000_004.mp4",
+      "hit_with_an_object_rwf_2000_005.mp4",
+      "hit_with_an_object_rwf_2000_006.mp4",
+      "hit_with_an_object_rwf_2000_1.mp4",
+      "hit_with_an_object_rwf_2000_10.mp4",
+      "hit_with_an_object_rwf_2000_11.mp4",
+      "hit_with_an_object_rwf_2000_12.mp4",
+      "hit_with_an_object_rwf_2000_13.mp4",
+      "hit_with_an_object_rwf_2000_14.mp4",
+      "hit_with_an_object_rwf_2000_15.mp4",
+      "hit_with_an_object_rwf_2000_16.mp4",
+      "hit_with_an_object_rwf_2000_17.mp4",
+      "hit_with_an_object_rwf_2000_19.mp4",
+      "hit_with_an_object_rwf_2000_2.mp4",
+      "hit_with_an_object_rwf_2000_22.mp4",
+      "hit_with_an_object_rwf_2000_23.mp4",
+      "hit_with_an_object_rwf_2000_24.mp4",
+      "hit_with_an_object_rwf_2000_25.mp4",
+      "hit_with_an_object_rwf_2000_26.mp4",
+      "hit_with_an_object_rwf_2000_3.mp4",
+      "hit_with_an_object_rwf_2000_30.mp4",
+      "hit_with_an_object_rwf_2000_31.mp4",
+      "hit_with_an_object_rwf_2000_33.mp4",
+      "hit_with_an_object_rwf_2000_34.mp4",
+      "hit_with_an_object_rwf_2000_35.mp4",
+      "hit_with_an_object_rwf_2000_36.mp4",
+      "hit_with_an_object_rwf_2000_37.mp4",
+      "hit_with_an_object_rwf_2000_38.mp4",
+      "hit_with_an_object_rwf_2000_39.mp4",
+      "hit_with_an_object_rwf_2000_40.mp4",
+      "hit_with_an_object_rwf_2000_41.mp4",
+      "hit_with_an_object_rwf_2000_42.mp4",
+      "hit_with_an_object_rwf_2000_44.mp4",
+      "hit_with_an_object_rwf_2000_46.mp4",
+      "hit_with_an_object_rwf_2000_47.mp4",
+      "hit_with_an_object_rwf_2000_49.mp4",
+      "hit_with_an_object_rwf_2000_5.mp4",
+      "hit_with_an_object_rwf_2000_50.mp4",
+      "hit_with_an_object_rwf_2000_51.mp4",
+      "hit_with_an_object_rwf_2000_52.mp4",
+      "hit_with_an_object_rwf_2000_56.mp4",
+      "hit_with_an_object_rwf_2000_57.mp4",
+      "hit_with_an_object_rwf_2000_58.mp4",
+      "hit_with_an_object_rwf_2000_6.mp4",
+      "hit_with_an_object_rwf_2000_60.mp4",
+      "hit_with_an_object_rwf_2000_61.mp4",
+      "hit_with_an_object_rwf_2000_62.mp4",
+      "hit_with_an_object_rwf_2000_63.mp4",
+      "hit_with_an_object_rwf_2000_64.mp4",
+      "hit_with_an_object_rwf_2000_65.mp4",
+      "hit_with_an_object_rwf_2000_66.mp4",
+      "hit_with_an_object_rwf_2000_67.mp4",
+      "hit_with_an_object_rwf_2000_68.mp4",
+      "hit_with_an_object_rwf_2000_69.mp4",
+      "hit_with_an_object_rwf_2000_7.mp4",
+      "hit_with_an_object_rwf_2000_70.mp4",
+      "hit_with_an_object_rwf_2000_71.mp4",
+      "hit_with_an_object_rwf_2000_78.mp4",
+      "hit_with_an_object_rwf_2000_79.mp4",
+      "hit_with_an_object_rwf_2000_8.mp4",
+      "hit_with_an_object_rwf_2000_80.mp4",
+      "hit_with_an_object_rwf_2000_81.mp4",
+      "hit_with_an_object_rwf_2000_9.mp4",
+      "hit_with_an_object_soap2day_001.mp4",
+      "hit_with_an_object_soap2day_004.mp4",
+      "hit_with_an_object_ucf_crime_39.mp4",
+      "hit_with_an_object_ucf_crime_40.mp4",
+      "hit_with_an_object_ucf_crime_41.mp4",
+      "hit_with_an_object_ucf_crime_45.mp4",
+      "hit_with_an_object_ucf_crime_46.mp4",
+      "hit_with_an_object_ucf_crime_53.mp4",
+      "hit_with_an_object_ucf_crime_58.mp4",
+      "hit_with_an_object_ucf_crime_59.mp4",
+      "hit_with_an_object_youtube_007.mp4",
+      "hit_with_an_object_youtube_008.mp4",
+      "hit_with_an_object_youtube_012.mp4",
+      "hit_with_an_object_youtube_013.mp4",
+      "hit_with_an_object_youtube_014.mp4",
+      "hit_with_an_object_youtube_015.mp4",
+      "hit_with_an_object_youtube_016.mp4",
+      "hit_with_an_object_youtube_017.mp4",
+      "hit_with_an_object_youtube_018.mp4",
+      "hit_with_an_object_youtube_021.mp4",
+      "hit_with_an_object_youtube_022.mp4",
+      "hit_with_an_object_youtube_023.mp4",
+      "hit_with_an_object_youtube_024.mp4",
+      "hit_with_an_object_youtube_028.mp4",
+      "hit_with_an_object_youtube_029.mp4",
+      "hit_with_an_object_youtube_030.mp4",
+      "hit_with_an_object_youtube_033.mp4",
+      "hit_with_an_object_youtube_034.mp4",
+      "hit_with_an_object_youtube_035.mp4",
+      "hit_with_an_object_youtube_036.mp4",
+      "hit_with_an_object_youtube_037.mp4",
+      "hit_with_an_object_youtube_038.mp4",
+      "hit_with_an_object_youtube_041.mp4",
+      "hit_with_an_object_youtube_045.mp4",
+      "hit_with_an_object_youtube_052.mp4",
+      "hit_with_an_object_youtube_057.mp4",
+      "hit_with_an_object_youtube_058.mp4",
+      "hit_with_an_object_youtube_059.mp4",
+      "hit_with_an_object_youtube_060.mp4",
+      "hit_with_an_object_youtube_068.mp4",
+      "hit_with_an_object_youtube_069.mp4",
+      "hit_with_an_object_youtube_070.mp4",
+      "hit_with_an_object_youtube_071.mp4",
+      "hit_with_an_object_youtube_074.mp4"
+    ],
+    "hit_with_an_object_youtube_1": [
+      "hit_with_an_object_ucf_crime_60.mp4",
+      "hit_with_an_object_ucf_crime_61.mp4",
+      "hit_with_an_object_ucf_crime_62.mp4"
+    ],
+    "hit_with_an_object_youtube_10": [
+      "hit_with_an_object_ucf_crime_8.mp4"
+    ],
+    "hit_with_an_object_youtube_11": [
+      "hit_with_an_object_ucf_crime_66.mp4",
+      "hit_with_an_object_ucf_crime_67.mp4",
+      "hit_with_an_object_ucf_crime_68.mp4"
+    ],
+    "hit_with_an_object_youtube_12": [
+      "hit_with_an_object_ucf_crime_47.mp4"
+    ],
+    "hit_with_an_object_youtube_13": [
+      "hit_with_an_object_youtube_066.mp4",
+      "hit_with_an_object_youtube_067.mp4"
+    ],
+    "hit_with_an_object_youtube_14": [
+      "hit_with_an_object_youtube_043.mp4",
+      "hit_with_an_object_youtube_044.mp4"
+    ],
+    "hit_with_an_object_youtube_15": [
+      "hit_with_an_object_ucf_crime_002.mp4",
+      "hit_with_an_object_ucf_crime_003.mp4",
+      "hit_with_an_object_ucf_crime_004.mp4"
+    ],
+    "hit_with_an_object_youtube_16": [
+      "hit_with_an_object_ucf_crime_1.mp4",
+      "hit_with_an_object_ucf_crime_15.mp4",
+      "hit_with_an_object_ucf_crime_16.mp4",
+      "hit_with_an_object_ucf_crime_2.mp4",
+      "hit_with_an_object_ucf_crime_3.mp4",
+      "hit_with_an_object_ucf_crime_4.mp4"
+    ],
+    "hit_with_an_object_youtube_17": [
+      "hit_with_an_object_ucf_crime_33.mp4",
+      "hit_with_an_object_ucf_crime_34.mp4",
+      "hit_with_an_object_ucf_crime_35.mp4",
+      "hit_with_an_object_ucf_crime_36.mp4"
+    ],
+    "hit_with_an_object_youtube_18": [
+      "hit_with_an_object_youtube_061.mp4",
+      "hit_with_an_object_youtube_062.mp4",
+      "hit_with_an_object_youtube_063.mp4",
+      "hit_with_an_object_youtube_064.mp4",
+      "hit_with_an_object_youtube_065.mp4"
+    ],
+    "hit_with_an_object_youtube_19": [
+      "hit_with_an_object_youtube_025.mp4",
+      "hit_with_an_object_youtube_026.mp4",
+      "hit_with_an_object_youtube_027.mp4"
+    ],
+    "hit_with_an_object_youtube_2": [
+      "hit_with_an_object_ucf_crime_25.mp4",
+      "hit_with_an_object_ucf_crime_26.mp4",
+      "hit_with_an_object_ucf_crime_27.mp4",
+      "hit_with_an_object_ucf_crime_28.mp4",
+      "hit_with_an_object_ucf_crime_29.mp4"
+    ],
+    "hit_with_an_object_youtube_20": [
+      "hit_with_an_object_youtube_031.mp4",
+      "hit_with_an_object_youtube_032.mp4"
+    ],
+    "hit_with_an_object_youtube_21": [
+      "hit_with_an_object_youtube_009.mp4",
+      "hit_with_an_object_youtube_010.mp4",
+      "hit_with_an_object_youtube_011.mp4"
+    ],
+    "hit_with_an_object_youtube_22": [
+      "hit_with_an_object_ucf_crime_50.mp4",
+      "hit_with_an_object_ucf_crime_51.mp4",
+      "hit_with_an_object_ucf_crime_52.mp4"
+    ],
+    "hit_with_an_object_youtube_23": [
+      "hit_with_an_object_ucf_crime_55.mp4",
+      "hit_with_an_object_ucf_crime_57.mp4"
+    ],
+    "hit_with_an_object_youtube_24": [
+      "hit_with_an_object_youtube_053.mp4",
+      "hit_with_an_object_youtube_054.mp4",
+      "hit_with_an_object_youtube_055.mp4"
+    ],
+    "hit_with_an_object_youtube_25": [
+      "hit_with_an_object_youtube_039.mp4",
+      "hit_with_an_object_youtube_040.mp4"
+    ],
+    "hit_with_an_object_youtube_27": [
+      "hit_with_an_object_ucf_crime_005.mp4",
+      "hit_with_an_object_ucf_crime_006.mp4"
+    ],
+    "hit_with_an_object_youtube_28": [
+      "hit_with_an_object_youtube_019.mp4",
+      "hit_with_an_object_youtube_020.mp4"
+    ],
+    "hit_with_an_object_youtube_29": [
+      "hit_with_an_object_youtube_046.mp4",
+      "hit_with_an_object_youtube_047.mp4",
+      "hit_with_an_object_youtube_048.mp4",
+      "hit_with_an_object_youtube_049.mp4",
+      "hit_with_an_object_youtube_050.mp4",
+      "hit_with_an_object_youtube_051.mp4"
+    ],
+    "hit_with_an_object_youtube_3": [
+      "hit_with_an_object_ucf_crime_30.mp4",
+      "hit_with_an_object_ucf_crime_31.mp4",
+      "hit_with_an_object_ucf_crime_32.mp4"
+    ],
+    "hit_with_an_object_youtube_30": [
+      "hit_with_an_object_ucf_crime_007.mp4",
+      "hit_with_an_object_ucf_crime_13.mp4",
+      "hit_with_an_object_ucf_crime_14.mp4"
+    ],
+    "hit_with_an_object_youtube_31": [
+      "hit_with_an_object_ucf_crime_37.mp4",
+      "hit_with_an_object_ucf_crime_38.mp4"
+    ],
+    "hit_with_an_object_youtube_32": [
+      "hit_with_an_object_chatgpt_002.mp4"
+    ],
+    "hit_with_an_object_youtube_4": [
+      "hit_with_an_object_ucf_crime_18.mp4",
+      "hit_with_an_object_ucf_crime_19.mp4",
+      "hit_with_an_object_ucf_crime_20.mp4",
+      "hit_with_an_object_ucf_crime_21.mp4",
+      "hit_with_an_object_ucf_crime_22.mp4",
+      "hit_with_an_object_ucf_crime_23.mp4",
+      "hit_with_an_object_ucf_crime_24.mp4"
+    ],
+    "hit_with_an_object_youtube_5": [
+      "hit_with_an_object_ucf_crime_42.mp4",
+      "hit_with_an_object_ucf_crime_43.mp4",
+      "hit_with_an_object_ucf_crime_44.mp4"
+    ],
+    "hit_with_an_object_youtube_6": [
+      "hit_with_an_object_ucf_crime_63.mp4",
+      "hit_with_an_object_ucf_crime_64.mp4",
+      "hit_with_an_object_ucf_crime_65.mp4"
+    ],
+    "hit_with_an_object_youtube_7": [
+      "hit_with_an_object_youtube_005.mp4",
+      "hit_with_an_object_youtube_006.mp4"
+    ],
+    "hit_with_an_object_youtube_8": [
+      "hit_with_an_object_x_001.mp4",
+      "hit_with_an_object_x_002.mp4",
+      "hit_with_an_object_x_003.mp4"
+    ],
+    "hit_with_an_object_youtube_9": [
+      "hit_with_an_object_ucf_crime_008.mp4",
+      "hit_with_an_object_ucf_crime_009.mp4",
+      "hit_with_an_object_ucf_crime_010.mp4",
+      "hit_with_an_object_ucf_crime_011.mp4",
+      "hit_with_an_object_ucf_crime_12.mp4"
+    ]
+  },
+  "indecent_gesture": {
+    "indecent__gesture_2": [
+      "indecent__gesture_2_trim_0.mp4"
+    ]
+  },
+  "kick": {
+    "no_group": [
+      "kick_facebook_001.mp4",
+      "kick_facebook_002.mp4",
+      "kick_instagram_001.mp4",
+      "kick_rwf_2000_1.mp4",
+      "kick_rwf_2000_10.mp4",
+      "kick_rwf_2000_11.mp4",
+      "kick_rwf_2000_12.mp4",
+      "kick_rwf_2000_13.mp4",
+      "kick_rwf_2000_16.mp4",
+      "kick_rwf_2000_19.mp4",
+      "kick_rwf_2000_20.mp4",
+      "kick_rwf_2000_21.mp4",
+      "kick_rwf_2000_22.mp4",
+      "kick_rwf_2000_23.mp4",
+      "kick_rwf_2000_24.mp4",
+      "kick_rwf_2000_25.mp4",
+      "kick_rwf_2000_26.mp4",
+      "kick_rwf_2000_27.mp4",
+      "kick_rwf_2000_28.mp4",
+      "kick_rwf_2000_29.mp4",
+      "kick_rwf_2000_3.mp4",
+      "kick_rwf_2000_30.mp4",
+      "kick_rwf_2000_31.mp4",
+      "kick_rwf_2000_32.mp4",
+      "kick_rwf_2000_33.mp4",
+      "kick_rwf_2000_36.mp4",
+      "kick_rwf_2000_37.mp4",
+      "kick_rwf_2000_38.mp4",
+      "kick_rwf_2000_39.mp4",
+      "kick_rwf_2000_4.mp4",
+      "kick_rwf_2000_40.mp4",
+      "kick_rwf_2000_41.mp4",
+      "kick_rwf_2000_42.mp4",
+      "kick_rwf_2000_43.mp4",
+      "kick_rwf_2000_48.mp4",
+      "kick_rwf_2000_49.mp4",
+      "kick_rwf_2000_5.mp4",
+      "kick_rwf_2000_50.mp4",
+      "kick_rwf_2000_51.mp4",
+      "kick_rwf_2000_52.mp4",
+      "kick_rwf_2000_55.mp4",
+      "kick_rwf_2000_56.mp4",
+      "kick_rwf_2000_57.mp4",
+      "kick_rwf_2000_58.mp4",
+      "kick_rwf_2000_6.mp4",
+      "kick_rwf_2000_61.mp4",
+      "kick_rwf_2000_62.mp4",
+      "kick_rwf_2000_66.mp4",
+      "kick_rwf_2000_67.mp4",
+      "kick_rwf_2000_69.mp4",
+      "kick_rwf_2000_7.mp4",
+      "kick_rwf_2000_70.mp4",
+      "kick_rwf_2000_8.mp4",
+      "kick_ucf_crime_1.mp4",
+      "kick_ucf_crime_14.mp4",
+      "kick_ucf_crime_15.mp4",
+      "kick_ucf_crime_16.mp4",
+      "kick_ucf_crime_19.mp4",
+      "kick_ucf_crime_20.mp4",
+      "kick_ucf_crime_25.mp4",
+      "kick_ucf_crime_29.mp4",
+      "kick_ucf_crime_3.mp4",
+      "kick_ucf_crime_31.mp4",
+      "kick_ucf_crime_32.mp4",
+      "kick_ucf_crime_34.mp4",
+      "kick_ucf_crime_35.mp4",
+      "kick_ucf_crime_36.mp4",
+      "kick_ucf_crime_37.mp4",
+      "kick_ucf_crime_39.mp4",
+      "kick_ucf_crime_50.mp4",
+      "kick_youtube_018.mp4",
+      "kick_youtube_019.mp4",
+      "kick_youtube_020.mp4",
+      "kick_youtube_021.mp4",
+      "kick_youtube_022.mp4",
+      "kick_youtube_023.mp4",
+      "kick_youtube_024.mp4",
+      "kick_youtube_025.mp4",
+      "kick_youtube_030.mp4",
+      "kick_youtube_031.mp4",
+      "kick_youtube_034.mp4",
+      "kick_youtube_042.mp4",
+      "kick_youtube_045.mp4",
+      "kick_youtube_046.mp4",
+      "kick_youtube_047.mp4",
+      "kick_youtube_048.mp4",
+      "kick_youtube_049.mp4",
+      "kick_youtube_052.mp4",
+      "kick_youtube_053.mp4",
+      "kick_youtube_054.mp4",
+      "kick_youtube_055.mp4",
+      "kick_youtube_056.mp4",
+      "kick_youtube_059.mp4",
+      "kick_youtube_060.mp4",
+      "kick_youtube_061.mp4",
+      "kick_youtube_062.mp4",
+      "kick_youtube_063.mp4",
+      "kick_youtube_069.mp4",
+      "kick_youtube_070.mp4",
+      "kick_youtube_071.mp4",
+      "kick_youtube_075.mp4",
+      "kick_youtube_076.mp4",
+      "kick_youtube_080.mp4",
+      "kick_youtube_081.mp4",
+      "kick_youtube_086.mp4",
+      "kick_youtube_087.mp4",
+      "kick_youtube_088.mp4",
+      "kick_youtube_089.mp4",
+      "kick_youtube_090.mp4",
+      "kick_youtube_091.mp4",
+      "kick_youtube_092.mp4",
+      "kick_youtube_095.mp4",
+      "kick_youtube_096.mp4",
+      "kick_youtube_097.mp4",
+      "kick_youtube_098.mp4",
+      "kick_youtube_099.mp4",
+      "kick_youtube_103.mp4",
+      "kick_youtube_104.mp4",
+      "kick_youtube_105.mp4",
+      "kick_youtube_106.mp4",
+      "kick_youtube_107.mp4",
+      "kick_youtube_108.mp4",
+      "kick_youtube_109.mp4",
+      "kick_youtube_110.mp4",
+      "kick_youtube_111.mp4",
+      "kick_youtube_112.mp4",
+      "kick_youtube_114.mp4",
+      "kick_youtube_123.mp4",
+      "kick_youtube_124.mp4",
+      "kick_youtube_125.mp4",
+      "kick_youtube_126.mp4",
+      "kick_youtube_127.mp4",
+      "kick_youtube_128.mp4",
+      "kick_youtube_129.mp4",
+      "kick_youtube_130.mp4",
+      "kick_youtube_131.mp4",
+      "kick_youtube_132.mp4",
+      "kick_youtube_133.mp4",
+      "kick_youtube_134.mp4",
+      "kick_youtube_135.mp4",
+      "kick_youtube_136.mp4",
+      "kick_youtube_137.mp4",
+      "kick_youtube_141.mp4",
+      "kick_youtube_142.mp4",
+      "kick_youtube_143.mp4",
+      "kick_youtube_144.mp4",
+      "kick_youtube_147.mp4",
+      "kick_youtube_151.mp4",
+      "kick_youtube_162.mp4",
+      "kick_youtube_163.mp4",
+      "kick_youtube_164.mp4",
+      "kick_youtube_165.mp4",
+      "kick_youtube_166.mp4",
+      "kick_youtube_167.mp4"
+    ],
+    "Kick_youtube_1": [
+      "kick_youtube_148.mp4",
+      "kick_youtube_149.mp4",
+      "kick_youtube_150.mp4"
+    ],
+    "Kick_youtube_10": [
+      "kick_youtube_026.mp4",
+      "kick_youtube_027.mp4",
+      "kick_youtube_028.mp4",
+      "kick_youtube_029.mp4"
+    ],
+    "Kick_youtube_11": [
+      "kick_ucf_crime_43.mp4",
+      "kick_ucf_crime_44.mp4",
+      "kick_ucf_crime_45.mp4",
+      "kick_ucf_crime_46.mp4",
+      "kick_ucf_crime_47.mp4",
+      "kick_ucf_crime_48.mp4",
+      "kick_ucf_crime_49.mp4"
+    ],
+    "Kick_youtube_12": [
+      "kick_soap2day_001.mp4",
+      "kick_soap2day_002.mp4",
+      "kick_soap2day_003.mp4",
+      "kick_soap2day_004.mp4",
+      "kick_soap2day_005.mp4",
+      "kick_soap2day_006.mp4",
+      "kick_soap2day_007.mp4",
+      "kick_soap2day_008.mp4",
+      "kick_soap2day_009.mp4",
+      "kick_soap2day_011.mp4",
+      "kick_soap2day_012.mp4"
+    ],
+    "Kick_youtube_13": [
+      "kick_facebook_168.mp4",
+      "kick_facebook_169.mp4"
+    ],
+    "Kick_youtube_14": [
+      "kick_youtube_035.mp4",
+      "kick_youtube_036.mp4",
+      "kick_youtube_037.mp4",
+      "kick_youtube_038.mp4",
+      "kick_youtube_039.mp4",
+      "kick_youtube_041.mp4"
+    ],
+    "Kick_youtube_15": [
+      "kick_ucf_crime_51.mp4",
+      "kick_ucf_crime_53.mp4"
+    ],
+    "Kick_youtube_16": [
+      "kick_dailymotion_010.mp4",
+      "kick_dailymotion_011.mp4",
+      "kick_dailymotion_012.mp4"
+    ],
+    "Kick_youtube_18": [
+      "kick_ucf_crime_10.mp4",
+      "kick_ucf_crime_11.mp4"
+    ],
+    "Kick_youtube_19": [
+      "kick_ucf_crime_6.mp4",
+      "kick_ucf_crime_7.mp4"
+    ],
+    "Kick_youtube_2": [
+      "kick_youtube_152.mp4",
+      "kick_youtube_153.mp4",
+      "kick_youtube_154.mp4"
+    ],
+    "Kick_youtube_20": [
+      "kick_dailymotion_013.mp4",
+      "kick_dailymotion_014.mp4",
+      "kick_dailymotion_015.mp4",
+      "kick_dailymotion_016.mp4",
+      "kick_dailymotion_017.mp4"
+    ],
+    "Kick_youtube_22": [
+      "kick_youtube_082.mp4",
+      "kick_youtube_083.mp4"
+    ],
+    "Kick_youtube_23": [
+      "kick_youtube_077.mp4",
+      "kick_youtube_078.mp4",
+      "kick_youtube_079.mp4"
+    ],
+    "Kick_youtube_24": [
+      "kick_ucf_crime_8.mp4",
+      "kick_ucf_crime_9.mp4"
+    ],
+    "Kick_youtube_25": [
+      "kick_youtube_093.mp4",
+      "kick_youtube_094.mp4"
+    ],
+    "Kick_youtube_26": [
+      "kick_ucf_crime_4.mp4",
+      "kick_ucf_crime_5.mp4"
+    ],
+    "Kick_youtube_27": [
+      "kick_youtube_072.mp4",
+      "kick_youtube_073.mp4",
+      "kick_youtube_074.mp4"
+    ],
+    "Kick_youtube_28": [
+      "kick_youtube_050.mp4",
+      "kick_youtube_051.mp4"
+    ],
+    "Kick_youtube_29": [
+      "kick_youtube_084.mp4",
+      "kick_youtube_085.mp4"
+    ],
+    "Kick_youtube_3": [
+      "kick_youtube_138.mp4",
+      "kick_youtube_139.mp4",
+      "kick_youtube_140.mp4"
+    ],
+    "Kick_youtube_30": [
+      "kick_youtube_057.mp4",
+      "kick_youtube_058.mp4"
+    ],
+    "Kick_youtube_31": [
+      "kick_youtube_043.mp4",
+      "kick_youtube_044.mp4"
+    ],
+    "Kick_youtube_32": [
+      "kick_ucf_crime_26.mp4",
+      "kick_ucf_crime_27.mp4",
+      "kick_ucf_crime_28.mp4"
+    ],
+    "Kick_youtube_33": [
+      "kick_rwf_2000_44.mp4",
+      "kick_rwf_2000_45.mp4"
+    ],
+    "Kick_youtube_34": [
+      "kick_rwf_2000_46.mp4",
+      "kick_rwf_2000_47.mp4"
+    ],
+    "Kick_youtube_35": [
+      "kick_rwf_2000_53.mp4",
+      "kick_rwf_2000_54.mp4"
+    ],
+    "Kick_youtube_36": [
+      "kick_rwf_2000_59.mp4",
+      "kick_rwf_2000_60.mp4"
+    ],
+    "Kick_youtube_37": [
+      "kick_rwf_2000_63.mp4",
+      "kick_rwf_2000_64.mp4",
+      "kick_rwf_2000_65.mp4"
+    ],
+    "Kick_youtube_38": [
+      "kick_ucf_crime_17.mp4",
+      "kick_ucf_crime_18.mp4"
+    ],
+    "Kick_youtube_39": [
+      "kick_youtube_032.mp4",
+      "kick_youtube_033.mp4"
+    ],
+    "Kick_youtube_4": [
+      "kick_youtube_115.mp4",
+      "kick_youtube_116.mp4",
+      "kick_youtube_118.mp4",
+      "kick_youtube_119.mp4",
+      "kick_youtube_120.mp4",
+      "kick_youtube_121.mp4",
+      "kick_youtube_122.mp4"
+    ],
+    "Kick_youtube_40": [
+      "kick_ucf_crime_12.mp4",
+      "kick_ucf_crime_13.mp4"
+    ],
+    "Kick_youtube_42": [
+      "kick_rwf_2000_34.mp4",
+      "kick_rwf_2000_35.mp4"
+    ],
+    "Kick_youtube_44": [
+      "kick_rwf_2000_14.mp4",
+      "kick_rwf_2000_15.mp4"
+    ],
+    "Kick_youtube_46": [
+      "kick_rwf_2000_17.mp4",
+      "kick_rwf_2000_18.mp4"
+    ],
+    "Kick_youtube_47": [
+      "kick_youtube_100.mp4",
+      "kick_youtube_101.mp4",
+      "kick_youtube_102.mp4"
+    ],
+    "Kick_youtube_5": [
+      "kick_ucf_crime_21.mp4",
+      "kick_ucf_crime_22.mp4",
+      "kick_ucf_crime_23.mp4",
+      "kick_ucf_crime_24.mp4"
+    ],
+    "Kick_youtube_6": [
+      "kick_youtube_064.mp4",
+      "kick_youtube_065.mp4",
+      "kick_youtube_066.mp4",
+      "kick_youtube_067.mp4",
+      "kick_youtube_068.mp4"
+    ],
+    "Kick_youtube_7": [
+      "kick_ucf_crime_40.mp4",
+      "kick_ucf_crime_41.mp4",
+      "kick_ucf_crime_42.mp4"
+    ],
+    "Kick_youtube_8": [
+      "kick_facebook_170.mp4",
+      "kick_facebook_171.mp4",
+      "kick_facebook_172.mp4",
+      "kick_facebook_173.mp4"
+    ],
+    "Kick_youtube_9": [
+      "kick_facebook_174.mp4",
+      "kick_facebook_175.mp4",
+      "kick_facebook_176.mp4"
+    ]
+  },
+  "lifting_a_person_aggresively": {
+    "Lifting_a_person_aggresively_facebook_1": [
+      "lifting_a_person_aggresively_facebook_001.mp4",
+      "lifting_a_person_aggresively_facebook_002.mp4"
+    ],
+    "no_group": [
+      "lifting_a_person_aggresively_youtube_038.mp4",
+      "lifting_a_person_aggresively_youtube_042.mp4",
+      "lifting_a_person_aggresively_youtube_073.mp4"
+    ]
+  },
+  "normal": {
+    "normal_1": [
+      "normal_ucf_crime_97.mp4",
+      "normal_ucf_crime_98.mp4",
+      "normal_ucf_crime_99.mp4"
+    ],
+    "normal_10": [
+      "normal_ucf_crime_91.mp4",
+      "normal_ucf_crime_92.mp4",
+      "normal_ucf_crime_93.mp4",
+      "normal_ucf_crime_94.mp4",
+      "normal_ucf_crime_95.mp4",
+      "normal_ucf_crime_96.mp4"
+    ],
+    "normal_11": [
+      "normal_ucf_crime_384.mp4",
+      "normal_ucf_crime_385.mp4",
+      "normal_ucf_crime_386.mp4",
+      "normal_ucf_crime_387.mp4",
+      "normal_ucf_crime_388.mp4",
+      "normal_ucf_crime_389.mp4",
+      "normal_ucf_crime_390.mp4",
+      "normal_ucf_crime_391.mp4",
+      "normal_ucf_crime_392.mp4",
+      "normal_ucf_crime_393.mp4",
+      "normal_ucf_crime_394.mp4",
+      "normal_ucf_crime_395.mp4",
+      "normal_ucf_crime_396.mp4",
+      "normal_ucf_crime_397.mp4",
+      "normal_ucf_crime_398.mp4",
+      "normal_ucf_crime_399.mp4",
+      "normal_ucf_crime_400.mp4",
+      "normal_ucf_crime_401.mp4",
+      "normal_ucf_crime_402.mp4",
+      "normal_ucf_crime_403.mp4",
+      "normal_ucf_crime_404.mp4",
+      "normal_ucf_crime_405.mp4"
+    ],
+    "normal_12": [
+      "normal_ucf_crime_406.mp4",
+      "normal_ucf_crime_407.mp4",
+      "normal_ucf_crime_408.mp4",
+      "normal_ucf_crime_409.mp4",
+      "normal_ucf_crime_410.mp4"
+    ],
+    "normal_13": [
+      "normal_ucf_crime_31.mp4",
+      "normal_ucf_crime_32.mp4",
+      "normal_ucf_crime_33.mp4",
+      "normal_ucf_crime_34.mp4",
+      "normal_ucf_crime_35.mp4",
+      "normal_ucf_crime_36.mp4",
+      "normal_ucf_crime_37.mp4",
+      "normal_ucf_crime_38.mp4"
+    ],
+    "normal_14": [
+      "normal_ucf_crime_306.mp4",
+      "normal_ucf_crime_307.mp4",
+      "normal_ucf_crime_308.mp4",
+      "normal_ucf_crime_309.mp4",
+      "normal_ucf_crime_310.mp4",
+      "normal_ucf_crime_311.mp4",
+      "normal_ucf_crime_312.mp4",
+      "normal_ucf_crime_313.mp4",
+      "normal_ucf_crime_314.mp4",
+      "normal_ucf_crime_315.mp4",
+      "normal_ucf_crime_316.mp4"
+    ],
+    "normal_15": [
+      "normal_ucf_crime_318.mp4",
+      "normal_ucf_crime_319.mp4",
+      "normal_ucf_crime_320.mp4",
+      "normal_ucf_crime_321.mp4",
+      "normal_ucf_crime_322.mp4",
+      "normal_ucf_crime_323.mp4"
+    ],
+    "normal_16": [
+      "normal_ucf_crime_324.mp4",
+      "normal_ucf_crime_325.mp4",
+      "normal_ucf_crime_326.mp4",
+      "normal_ucf_crime_327.mp4",
+      "normal_ucf_crime_328.mp4",
+      "normal_ucf_crime_329.mp4",
+      "normal_ucf_crime_331.mp4",
+      "normal_ucf_crime_332.mp4",
+      "normal_ucf_crime_333.mp4",
+      "normal_ucf_crime_334.mp4",
+      "normal_ucf_crime_335.mp4",
+      "normal_ucf_crime_336.mp4",
+      "normal_ucf_crime_337.mp4",
+      "normal_ucf_crime_338.mp4",
+      "normal_ucf_crime_339.mp4"
+    ],
+    "normal_17": [
+      "normal_ucf_crime_340.mp4",
+      "normal_ucf_crime_341.mp4"
+    ],
+    "normal_18": [
+      "normal_ucf_crime_349.mp4",
+      "normal_ucf_crime_350.mp4",
+      "normal_ucf_crime_351.mp4",
+      "normal_ucf_crime_352.mp4",
+      "normal_ucf_crime_353.mp4",
+      "normal_ucf_crime_354.mp4",
+      "normal_ucf_crime_355.mp4",
+      "normal_ucf_crime_356.mp4",
+      "normal_ucf_crime_357.mp4",
+      "normal_ucf_crime_358.mp4",
+      "normal_ucf_crime_359.mp4",
+      "normal_ucf_crime_360.mp4"
+    ],
+    "normal_19": [
+      "normal_ucf_crime_363.mp4",
+      "normal_ucf_crime_364.mp4",
+      "normal_ucf_crime_365.mp4",
+      "normal_ucf_crime_366.mp4",
+      "normal_ucf_crime_367.mp4",
+      "normal_ucf_crime_368.mp4",
+      "normal_ucf_crime_369.mp4",
+      "normal_ucf_crime_370.mp4",
+      "normal_ucf_crime_371.mp4",
+      "normal_ucf_crime_372.mp4",
+      "normal_ucf_crime_373.mp4",
+      "normal_ucf_crime_374.mp4",
+      "normal_ucf_crime_375.mp4",
+      "normal_ucf_crime_376.mp4",
+      "normal_ucf_crime_377.mp4",
+      "normal_ucf_crime_378.mp4",
+      "normal_ucf_crime_379.mp4",
+      "normal_ucf_crime_380.mp4",
+      "normal_ucf_crime_381.mp4",
+      "normal_ucf_crime_382.mp4",
+      "normal_ucf_crime_383.mp4"
+    ],
+    "normal_2": [
+      "normal_x_001.mp4",
+      "normal_x_002.mp4"
+    ],
+    "normal_20": [
+      "normal_ucf_crime_347.mp4",
+      "normal_ucf_crime_348.mp4"
+    ],
+    "normal_21": [
+      "normal_ucf_crime_24.mp4",
+      "normal_ucf_crime_25.mp4",
+      "normal_ucf_crime_26.mp4",
+      "normal_ucf_crime_27.mp4",
+      "normal_ucf_crime_28.mp4"
+    ],
+    "normal_22": [
+      "normal_ucf_crime_29.mp4",
+      "normal_ucf_crime_30.mp4"
+    ],
+    "normal_23": [
+      "normal_ucf_crime_240.mp4",
+      "normal_ucf_crime_241.mp4",
+      "normal_ucf_crime_242.mp4",
+      "normal_ucf_crime_243.mp4"
+    ],
+    "normal_24": [
+      "normal_ucf_crime_244.mp4",
+      "normal_ucf_crime_245.mp4",
+      "normal_ucf_crime_246.mp4",
+      "normal_ucf_crime_247.mp4",
+      "normal_ucf_crime_248.mp4",
+      "normal_ucf_crime_249.mp4"
+    ],
+    "normal_25": [
+      "normal_ucf_crime_250.mp4",
+      "normal_ucf_crime_251.mp4",
+      "normal_ucf_crime_252.mp4",
+      "normal_ucf_crime_253.mp4",
+      "normal_ucf_crime_254.mp4",
+      "normal_ucf_crime_255.mp4",
+      "normal_ucf_crime_256.mp4",
+      "normal_ucf_crime_257.mp4"
+    ],
+    "normal_26": [
+      "normal_ucf_crime_261.mp4",
+      "normal_ucf_crime_262.mp4",
+      "normal_ucf_crime_263.mp4",
+      "normal_ucf_crime_264.mp4",
+      "normal_ucf_crime_265.mp4",
+      "normal_ucf_crime_266.mp4",
+      "normal_ucf_crime_267.mp4",
+      "normal_ucf_crime_268.mp4",
+      "normal_ucf_crime_269.mp4"
+    ],
+    "normal_27": [
+      "normal_ucf_crime_282.mp4",
+      "normal_ucf_crime_283.mp4",
+      "normal_ucf_crime_284.mp4",
+      "normal_ucf_crime_285.mp4",
+      "normal_ucf_crime_286.mp4",
+      "normal_ucf_crime_287.mp4",
+      "normal_ucf_crime_288.mp4"
+    ],
+    "normal_28": [
+      "normal_ucf_crime_275.mp4",
+      "normal_ucf_crime_276.mp4",
+      "normal_ucf_crime_277.mp4",
+      "normal_ucf_crime_278.mp4",
+      "normal_ucf_crime_279.mp4",
+      "normal_ucf_crime_280.mp4",
+      "normal_ucf_crime_281.mp4"
+    ],
+    "normal_29": [
+      "normal_ucf_crime_293.mp4",
+      "normal_ucf_crime_294.mp4",
+      "normal_ucf_crime_295.mp4",
+      "normal_ucf_crime_296.mp4",
+      "normal_ucf_crime_297.mp4",
+      "normal_ucf_crime_298.mp4",
+      "normal_ucf_crime_299.mp4",
+      "normal_ucf_crime_300.mp4",
+      "normal_ucf_crime_301.mp4",
+      "normal_ucf_crime_302.mp4",
+      "normal_ucf_crime_303.mp4",
+      "normal_ucf_crime_304.mp4",
+      "normal_ucf_crime_305.mp4"
+    ],
+    "normal_3": [
+      "normal_x_003.mp4",
+      "normal_x_004.mp4",
+      "normal_x_005.mp4",
+      "normal_x_006.mp4",
+      "normal_x_007.mp4",
+      "normal_x_008.mp4",
+      "normal_x_009.mp4",
+      "normal_x_010.mp4",
+      "normal_x_011.mp4",
+      "normal_x_012.mp4",
+      "normal_x_013.mp4",
+      "normal_x_014.mp4",
+      "normal_x_015.mp4",
+      "normal_x_016.mp4",
+      "normal_x_017.mp4",
+      "normal_x_018.mp4",
+      "normal_x_019.mp4",
+      "normal_x_020.mp4",
+      "normal_x_021.mp4",
+      "normal_x_022.mp4",
+      "normal_x_023.mp4",
+      "normal_x_024.mp4",
+      "normal_x_025.mp4",
+      "normal_x_026.mp4",
+      "normal_x_027.mp4",
+      "normal_x_028.mp4",
+      "normal_x_029.mp4",
+      "normal_x_030.mp4",
+      "normal_x_031.mp4",
+      "normal_x_032.mp4",
+      "normal_x_033.mp4",
+      "normal_x_034.mp4",
+      "normal_x_035.mp4",
+      "normal_x_036.mp4",
+      "normal_x_037.mp4",
+      "normal_x_038.mp4",
+      "normal_x_039.mp4",
+      "normal_x_040.mp4",
+      "normal_x_041.mp4",
+      "normal_x_042.mp4",
+      "normal_x_043.mp4",
+      "normal_x_044.mp4"
+    ],
+    "normal_30": [
+      "normal_ucf_crime_19.mp4",
+      "normal_ucf_crime_20.mp4",
+      "normal_ucf_crime_21.mp4",
+      "normal_ucf_crime_22.mp4",
+      "normal_ucf_crime_23.mp4"
+    ],
+    "normal_31": [
+      "normal_ucf_crime_270.mp4",
+      "normal_ucf_crime_271.mp4"
+    ],
+    "normal_32": [
+      "normal_ucf_crime_259.mp4",
+      "normal_ucf_crime_260.mp4"
+    ],
+    "normal_33": [
+      "normal_ucf_crime_175.mp4",
+      "normal_ucf_crime_176.mp4",
+      "normal_ucf_crime_177.mp4",
+      "normal_ucf_crime_178.mp4",
+      "normal_ucf_crime_179.mp4",
+      "normal_ucf_crime_180.mp4",
+      "normal_ucf_crime_181.mp4",
+      "normal_ucf_crime_182.mp4",
+      "normal_ucf_crime_183.mp4"
+    ],
+    "normal_34": [
+      "normal_ucf_crime_191.mp4",
+      "normal_ucf_crime_192.mp4",
+      "normal_ucf_crime_193.mp4",
+      "normal_ucf_crime_194.mp4",
+      "normal_ucf_crime_195.mp4",
+      "normal_ucf_crime_196.mp4"
+    ],
+    "normal_35": [
+      "normal_ucf_crime_197.mp4",
+      "normal_ucf_crime_198.mp4",
+      "normal_ucf_crime_199.mp4",
+      "normal_ucf_crime_200.mp4",
+      "normal_ucf_crime_201.mp4",
+      "normal_ucf_crime_203.mp4",
+      "normal_ucf_crime_204.mp4",
+      "normal_ucf_crime_205.mp4",
+      "normal_ucf_crime_206.mp4",
+      "normal_ucf_crime_207.mp4",
+      "normal_ucf_crime_208.mp4",
+      "normal_ucf_crime_209.mp4",
+      "normal_ucf_crime_211.mp4",
+      "normal_ucf_crime_212.mp4",
+      "normal_ucf_crime_213.mp4"
+    ],
+    "normal_36": [
+      "normal_ucf_crime_216.mp4",
+      "normal_ucf_crime_217.mp4",
+      "normal_ucf_crime_218.mp4",
+      "normal_ucf_crime_219.mp4"
+    ],
+    "normal_37": [
+      "normal_ucf_crime_167.mp4",
+      "normal_ucf_crime_168.mp4",
+      "normal_ucf_crime_169.mp4",
+      "normal_ucf_crime_170.mp4",
+      "normal_ucf_crime_171.mp4"
+    ],
+    "normal_38": [
+      "normal_ucf_crime_223.mp4",
+      "normal_ucf_crime_224.mp4",
+      "normal_ucf_crime_225.mp4",
+      "normal_ucf_crime_226.mp4",
+      "normal_ucf_crime_227.mp4",
+      "normal_ucf_crime_228.mp4",
+      "normal_ucf_crime_229.mp4"
+    ],
+    "normal_39": [
+      "normal_ucf_crime_237.mp4",
+      "normal_ucf_crime_238.mp4",
+      "normal_ucf_crime_239.mp4"
+    ],
+    "normal_4": [
+      "normal_ucf_crime_4.mp4",
+      "normal_ucf_crime_5.mp4",
+      "normal_ucf_crime_6.mp4",
+      "normal_ucf_crime_7.mp4",
+      "normal_ucf_crime_8.mp4",
+      "normal_ucf_crime_9.mp4"
+    ],
+    "normal_40": [
+      "normal_ucf_crime_100.mp4",
+      "normal_ucf_crime_101.mp4",
+      "normal_ucf_crime_102.mp4",
+      "normal_ucf_crime_103.mp4",
+      "normal_ucf_crime_104.mp4",
+      "normal_ucf_crime_105.mp4",
+      "normal_ucf_crime_106.mp4",
+      "normal_ucf_crime_107.mp4",
+      "normal_ucf_crime_108.mp4",
+      "normal_ucf_crime_109.mp4",
+      "normal_ucf_crime_110.mp4",
+      "normal_ucf_crime_111.mp4",
+      "normal_ucf_crime_112.mp4",
+      "normal_ucf_crime_113.mp4",
+      "normal_ucf_crime_114.mp4",
+      "normal_ucf_crime_115.mp4",
+      "normal_ucf_crime_116.mp4",
+      "normal_ucf_crime_117.mp4",
+      "normal_ucf_crime_118.mp4",
+      "normal_ucf_crime_119.mp4",
+      "normal_ucf_crime_120.mp4",
+      "normal_ucf_crime_121.mp4",
+      "normal_ucf_crime_122.mp4",
+      "normal_ucf_crime_123.mp4",
+      "normal_ucf_crime_124.mp4",
+      "normal_ucf_crime_125.mp4",
+      "normal_ucf_crime_126.mp4",
+      "normal_ucf_crime_127.mp4",
+      "normal_ucf_crime_128.mp4",
+      "normal_ucf_crime_129.mp4",
+      "normal_ucf_crime_130.mp4",
+      "normal_ucf_crime_131.mp4",
+      "normal_ucf_crime_132.mp4",
+      "normal_ucf_crime_133.mp4",
+      "normal_ucf_crime_134.mp4",
+      "normal_ucf_crime_135.mp4",
+      "normal_ucf_crime_136.mp4",
+      "normal_ucf_crime_137.mp4",
+      "normal_ucf_crime_138.mp4"
+    ],
+    "normal_41": [
+      "normal_ucf_crime_146.mp4",
+      "normal_ucf_crime_147.mp4",
+      "normal_ucf_crime_148.mp4",
+      "normal_ucf_crime_149.mp4",
+      "normal_ucf_crime_150.mp4",
+      "normal_ucf_crime_151.mp4",
+      "normal_ucf_crime_152.mp4",
+      "normal_ucf_crime_153.mp4",
+      "normal_ucf_crime_154.mp4",
+      "normal_ucf_crime_155.mp4",
+      "normal_ucf_crime_156.mp4",
+      "normal_ucf_crime_157.mp4",
+      "normal_ucf_crime_158.mp4",
+      "normal_ucf_crime_159.mp4",
+      "normal_ucf_crime_160.mp4",
+      "normal_ucf_crime_161.mp4"
+    ],
+    "normal_42": [
+      "normal_ucf_crime_13.mp4",
+      "normal_ucf_crime_14.mp4",
+      "normal_ucf_crime_15.mp4",
+      "normal_ucf_crime_16.mp4"
+    ],
+    "normal_43": [
+      "normal_ucf_crime_230.mp4",
+      "normal_ucf_crime_231.mp4",
+      "normal_ucf_crime_232.mp4",
+      "normal_ucf_crime_233.mp4",
+      "normal_ucf_crime_234.mp4"
+    ],
+    "normal_44": [
+      "normal_ucf_crime_172.mp4",
+      "normal_ucf_crime_173.mp4"
+    ],
+    "normal_45": [
+      "normal_ucf_crime_141.mp4",
+      "normal_ucf_crime_142.mp4"
+    ],
+    "normal_46": [
+      "normal_ucf_crime_143.mp4",
+      "normal_ucf_crime_144.mp4"
+    ],
+    "normal_47": [
+      "normal_ucf_crime_10.mp4",
+      "normal_ucf_crime_11.mp4"
+    ],
+    "normal_48": [
+      "normal_ucf_crime_162.mp4",
+      "normal_ucf_crime_163.mp4"
+    ],
+    "normal_49": [
+      "normal_ucf_crime_214.mp4",
+      "normal_ucf_crime_215.mp4"
+    ],
+    "normal_5": [
+      "normal_ucf_crime_39.mp4",
+      "normal_ucf_crime_40.mp4",
+      "normal_ucf_crime_41.mp4",
+      "normal_ucf_crime_42.mp4",
+      "normal_ucf_crime_43.mp4",
+      "normal_ucf_crime_44.mp4",
+      "normal_ucf_crime_45.mp4",
+      "normal_ucf_crime_46.mp4",
+      "normal_ucf_crime_47.mp4",
+      "normal_ucf_crime_48.mp4",
+      "normal_ucf_crime_49.mp4",
+      "normal_ucf_crime_50.mp4",
+      "normal_ucf_crime_51.mp4",
+      "normal_ucf_crime_52.mp4",
+      "normal_ucf_crime_53.mp4",
+      "normal_ucf_crime_54.mp4",
+      "normal_ucf_crime_55.mp4",
+      "normal_ucf_crime_56.mp4",
+      "normal_ucf_crime_57.mp4",
+      "normal_ucf_crime_58.mp4",
+      "normal_ucf_crime_59.mp4",
+      "normal_ucf_crime_60.mp4",
+      "normal_ucf_crime_61.mp4",
+      "normal_ucf_crime_62.mp4",
+      "normal_ucf_crime_63.mp4",
+      "normal_ucf_crime_64.mp4",
+      "normal_ucf_crime_65.mp4",
+      "normal_ucf_crime_66.mp4",
+      "normal_ucf_crime_67.mp4",
+      "normal_ucf_crime_68.mp4",
+      "normal_ucf_crime_69.mp4",
+      "normal_ucf_crime_70.mp4",
+      "normal_ucf_crime_71.mp4",
+      "normal_ucf_crime_72.mp4",
+      "normal_ucf_crime_73.mp4",
+      "normal_ucf_crime_74.mp4",
+      "normal_ucf_crime_75.mp4",
+      "normal_ucf_crime_76.mp4",
+      "normal_ucf_crime_77.mp4"
+    ],
+    "normal_50": [
+      "normal_ucf_crime_184.mp4",
+      "normal_ucf_crime_185.mp4"
+    ],
+    "normal_51": [
+      "normal_ucf_crime_187.mp4",
+      "normal_ucf_crime_188.mp4"
+    ],
+    "normal_52": [
+      "normal_ucf_crime_189.mp4",
+      "normal_ucf_crime_190.mp4"
+    ],
+    "normal_53": [
+      "normal_ucf_crime_290.mp4",
+      "normal_ucf_crime_291.mp4",
+      "normal_ucf_crime_292.mp4"
+    ],
+    "normal_54": [
+      "normal_ucf_crime_17.mp4",
+      "normal_ucf_crime_18.mp4",
+      "normal_ucf_crime_2.mp4"
+    ],
+    "normal_6": [
+      "normal_ucf_crime_78.mp4",
+      "normal_ucf_crime_79.mp4",
+      "normal_ucf_crime_80.mp4",
+      "normal_ucf_crime_81.mp4"
+    ],
+    "normal_7": [
+      "normal_ucf_crime_82.mp4",
+      "normal_ucf_crime_83.mp4"
+    ],
+    "normal_8": [
+      "normal_ucf_crime_84.mp4",
+      "normal_ucf_crime_85.mp4"
+    ],
+    "normal_9": [
+      "normal_ucf_crime_86.mp4",
+      "normal_ucf_crime_87.mp4",
+      "normal_ucf_crime_88.mp4",
+      "normal_ucf_crime_89.mp4",
+      "normal_ucf_crime_90.mp4"
+    ],
+    "no_group": [
+      "normal_ucf_crime_1.mp4",
+      "normal_ucf_crime_12.mp4",
+      "normal_ucf_crime_139.mp4",
+      "normal_ucf_crime_140.mp4",
+      "normal_ucf_crime_145.mp4",
+      "normal_ucf_crime_164.mp4",
+      "normal_ucf_crime_165.mp4",
+      "normal_ucf_crime_166.mp4",
+      "normal_ucf_crime_174.mp4",
+      "normal_ucf_crime_186.mp4",
+      "normal_ucf_crime_220.mp4",
+      "normal_ucf_crime_221.mp4",
+      "normal_ucf_crime_236.mp4",
+      "normal_ucf_crime_258.mp4",
+      "normal_ucf_crime_272.mp4",
+      "normal_ucf_crime_273.mp4",
+      "normal_ucf_crime_274.mp4",
+      "normal_ucf_crime_289.mp4",
+      "normal_ucf_crime_3.mp4",
+      "normal_ucf_crime_317.mp4",
+      "normal_ucf_crime_342.mp4",
+      "normal_ucf_crime_343.mp4",
+      "normal_ucf_crime_344.mp4",
+      "normal_ucf_crime_345.mp4",
+      "normal_ucf_crime_346.mp4",
+      "normal_ucf_crime_361.mp4",
+      "normal_x_045.mp4"
+    ]
+  },
+  "pindown_on_ground": {
+    "no_group": [
+      "pindown_on_ground_facebook_013.mp4",
+      "pindown_on_ground_instagram_002.mp4",
+      "pindown_on_ground_instagram_006.mp4",
+      "pindown_on_ground_instagram_007.mp4",
+      "pindown_on_ground_instagram_012.mp4",
+      "pindown_on_ground_rwf_2000_10.mp4",
+      "pindown_on_ground_rwf_2000_106.mp4",
+      "pindown_on_ground_rwf_2000_11.mp4",
+      "pindown_on_ground_rwf_2000_110.mp4",
+      "pindown_on_ground_rwf_2000_119.mp4",
+      "pindown_on_ground_rwf_2000_12.mp4",
+      "pindown_on_ground_rwf_2000_15.mp4",
+      "pindown_on_ground_rwf_2000_2.mp4",
+      "pindown_on_ground_rwf_2000_23.mp4",
+      "pindown_on_ground_rwf_2000_7.mp4",
+      "pindown_on_ground_rwf_2000_71.mp4",
+      "pindown_on_ground_rwf_2000_74.mp4",
+      "pindown_on_ground_rwf_2000_75.mp4",
+      "pindown_on_ground_rwf_2000_79.mp4",
+      "pindown_on_ground_rwf_2000_83.mp4",
+      "pindown_on_ground_rwf_2000_84.mp4",
+      "pindown_on_ground_rwf_2000_85.mp4",
+      "pindown_on_ground_rwf_2000_86.mp4",
+      "pindown_on_ground_rwf_2000_9.mp4",
+      "pindown_on_ground_rwf_2000_97.mp4",
+      "pindown_on_ground_rwf_2000_98.mp4",
+      "pindown_on_ground_ucf_crime_6.mp4",
+      "pindown_on_ground_x_009.mp4",
+      "pindown_on_ground_youtube_008.mp4",
+      "pindown_on_ground_youtube_010.mp4",
+      "pindown_on_ground_youtube_011.mp4",
+      "pindown_on_ground_youtube_012.mp4",
+      "pindown_on_ground_youtube_013.mp4",
+      "pindown_on_ground_youtube_022.mp4",
+      "pindown_on_ground_youtube_025.mp4",
+      "pindown_on_ground_youtube_030.mp4",
+      "pindown_on_ground_youtube_033.mp4",
+      "pindown_on_ground_youtube_036.mp4",
+      "pindown_on_ground_youtube_050.mp4",
+      "pindown_on_ground_youtube_074.mp4",
+      "pindown_on_ground_youtube_076.mp4",
+      "pindown_on_ground_youtube_105.mp4"
+    ],
+    "Pindown_on_ground_facebook_1": [
+      "pindown_on_ground_facebook_006.mp4",
+      "pindown_on_ground_facebook_007.mp4",
+      "pindown_on_ground_facebook_008.mp4"
+    ],
+    "Pindown_on_ground_facebook_2": [
+      "pindown_on_ground_facebook_001.mp4",
+      "pindown_on_ground_facebook_002.mp4"
+    ],
+    "Pindown_on_ground_rwf_1": [
+      "pindown_on_ground_rwf_2000_51.mp4",
+      "pindown_on_ground_rwf_2000_52.mp4",
+      "pindown_on_ground_rwf_2000_53.mp4"
+    ],
+    "Pindown_on_ground_rwf_2": [
+      "pindown_on_ground_rwf_2000_68.mp4",
+      "pindown_on_ground_rwf_2000_69.mp4",
+      "pindown_on_ground_rwf_2000_70.mp4"
+    ],
+    "Pindown_on_ground_rwf_3": [
+      "pindown_on_ground_rwf_2000_77.mp4",
+      "pindown_on_ground_rwf_2000_78.mp4"
+    ],
+    "Pindown_on_ground_rwf_4": [
+      "pindown_on_ground_rwf_2000_20.mp4",
+      "pindown_on_ground_rwf_2000_21.mp4"
+    ],
+    "pindown_on_ground_rwf_5": [
+      "pindown_on_ground_rwf_2000_26.mp4",
+      "pindown_on_ground_rwf_2000_27.mp4"
+    ],
+    "Pindown_on_ground_rwf_6": [
+      "pindown_on_ground_rwf_2000_36.mp4",
+      "pindown_on_ground_rwf_2000_37.mp4"
+    ],
+    "Pindown_on_ground_rwf_7": [
+      "pindown_on_ground_rwf_2000_47.mp4",
+      "pindown_on_ground_rwf_2000_48.mp4"
+    ],
+    "Pindown_on_ground_rwf_8": [
+      "pindown_on_ground_rwf_2000_104.mp4",
+      "pindown_on_ground_rwf_2000_105.mp4"
+    ],
+    "Pindown_on_ground_rwf_9": [
+      "pindown_on_ground_rwf_2000_1.mp4",
+      "pindown_on_ground_rwf_2000_3.mp4"
+    ],
+    "Pindown_on_ground_youtube_1": [
+      "pindown_on_ground_youtube_051.mp4",
+      "pindown_on_ground_youtube_052.mp4",
+      "pindown_on_ground_youtube_053.mp4",
+      "pindown_on_ground_youtube_054.mp4",
+      "pindown_on_ground_youtube_055.mp4"
+    ],
+    "Pindown_on_ground_youtube_2": [
+      "pindown_on_ground_youtube_091.mp4",
+      "pindown_on_ground_youtube_092.mp4"
+    ],
+    "Pindown_on_ground_youtube_3": [
+      "pindown_on_ground_x_004.mp4",
+      "pindown_on_ground_x_005.mp4"
+    ],
+    "Pindown_on_ground_youtube_4": [
+      "pindown_on_ground_youtube_001.mp4",
+      "pindown_on_ground_youtube_003.mp4",
+      "pindown_on_ground_youtube_004.mp4",
+      "pindown_on_ground_youtube_005.mp4",
+      "pindown_on_ground_youtube_006.mp4",
+      "pindown_on_ground_youtube_007.mp4",
+      "pindown_on_ground_youtube_009.mp4"
+    ],
+    "Pindown_on_ground_youtube_5": [
+      "pindown_on_ground_instagram_003.mp4",
+      "pindown_on_ground_instagram_004.mp4"
+    ],
+    "Pindown_on_ground_youtube_6": [
+      "pindown_on_ground_youtube_043.mp4",
+      "pindown_on_ground_youtube_044.mp4"
+    ]
+  },
+  "punch": {
+    "punch_1": [
+      "punch_youtube_277.mp4",
+      "punch_youtube_278.mp4",
+      "punch_youtube_279.mp4",
+      "punch_youtube_280.mp4",
+      "punch_youtube_281.mp4",
+      "punch_youtube_282.mp4"
+    ],
+    "punch_10": [
+      "punch_youtube_222.mp4",
+      "punch_youtube_223.mp4",
+      "punch_youtube_224.mp4"
+    ],
+    "punch_11": [
+      "punch_youtube_030.mp4",
+      "punch_youtube_031.mp4",
+      "punch_youtube_032.mp4",
+      "punch_youtube_033.mp4",
+      "punch_youtube_034.mp4",
+      "punch_youtube_035.mp4",
+      "punch_youtube_036.mp4",
+      "punch_youtube_037.mp4",
+      "punch_youtube_038.mp4",
+      "punch_youtube_039.mp4",
+      "punch_youtube_040.mp4",
+      "punch_youtube_041.mp4",
+      "punch_youtube_042.mp4",
+      "punch_youtube_043.mp4",
+      "punch_youtube_044.mp4",
+      "punch_youtube_045.mp4",
+      "punch_youtube_046.mp4",
+      "punch_youtube_047.mp4",
+      "punch_youtube_048.mp4",
+      "punch_youtube_049.mp4"
+    ],
+    "punch_12": [
+      "punch_youtube_167.mp4",
+      "punch_youtube_168.mp4",
+      "punch_youtube_244.mp4",
+      "punch_youtube_245.mp4",
+      "punch_youtube_246.mp4",
+      "punch_youtube_247.mp4"
+    ],
+    "punch_13": [
+      "punch_ucf_crime_7.mp4",
+      "punch_ucf_crime_8.mp4",
+      "punch_ucf_crime_9.mp4"
+    ],
+    "punch_14": [
+      "punch_x_001.mp4",
+      "punch_x_002.mp4",
+      "punch_x_003.mp4"
+    ],
+    "punch_15": [
+      "punch_x_048.mp4",
+      "punch_x_049.mp4",
+      "punch_x_050.mp4",
+      "punch_x_051.mp4",
+      "punch_x_052.mp4",
+      "punch_x_053.mp4"
+    ],
+    "punch_16": [
+      "punch_ucf_crime_16.mp4",
+      "punch_ucf_crime_17.mp4",
+      "punch_ucf_crime_18.mp4"
+    ],
+    "punch_17": [
+      "punch_ucf_crime_72.mp4",
+      "punch_ucf_crime_73.mp4",
+      "punch_ucf_crime_74.mp4"
+    ],
+    "punch_18": [
+      "punch_ucf_crime_23.mp4",
+      "punch_ucf_crime_25.mp4",
+      "punch_ucf_crime_26.mp4"
+    ],
+    "punch_19": [
+      "punch_ucf_crime_41.mp4",
+      "punch_ucf_crime_42.mp4",
+      "punch_ucf_crime_43.mp4",
+      "punch_ucf_crime_44.mp4",
+      "punch_ucf_crime_45.mp4",
+      "punch_ucf_crime_46.mp4",
+      "punch_ucf_crime_47.mp4"
+    ],
+    "punch_2": [
+      "punch_youtube_273.mp4",
+      "punch_youtube_275.mp4",
+      "punch_youtube_276.mp4"
+    ],
+    "punch_20": [
+      "punch_ucf_crime_49.mp4",
+      "punch_ucf_crime_50.mp4",
+      "punch_ucf_crime_51.mp4"
+    ],
+    "punch_21": [
+      "punch_ucf_crime_10.mp4",
+      "punch_ucf_crime_11.mp4",
+      "punch_ucf_crime_5.mp4",
+      "punch_ucf_crime_6.mp4"
+    ],
+    "punch_22": [
+      "punch_youtube_315.mp4",
+      "punch_youtube_316.mp4",
+      "punch_youtube_317.mp4"
+    ],
+    "punch_23": [
+      "punch_youtube_266.mp4",
+      "punch_youtube_267.mp4",
+      "punch_youtube_268.mp4",
+      "punch_youtube_269.mp4"
+    ],
+    "punch_24": [
+      "punch_x_018.mp4",
+      "punch_x_019.mp4",
+      "punch_x_020.mp4"
+    ],
+    "punch_25": [
+      "punch_x_044.mp4",
+      "punch_x_045.mp4"
+    ],
+    "punch_26": [
+      "punch_soap2day_011.mp4",
+      "punch_soap2day_012.mp4",
+      "punch_soap2day_013.mp4",
+      "punch_soap2day_014.mp4",
+      "punch_soap2day_015.mp4",
+      "punch_soap2day_016.mp4",
+      "punch_soap2day_017.mp4",
+      "punch_youtube_146.mp4",
+      "punch_youtube_147.mp4",
+      "punch_youtube_148.mp4",
+      "punch_youtube_149.mp4",
+      "punch_youtube_150.mp4",
+      "punch_youtube_151.mp4",
+      "punch_youtube_152.mp4"
+    ],
+    "punch_27": [
+      "punch_ucf_crime_31.mp4",
+      "punch_ucf_crime_32.mp4",
+      "punch_ucf_crime_33.mp4",
+      "punch_ucf_crime_34.mp4",
+      "punch_ucf_crime_35.mp4"
+    ],
+    "punch_28": [
+      "punch_ucf_crime_12.mp4",
+      "punch_ucf_crime_13.mp4"
+    ],
+    "punch_29": [
+      "punch_instagram_014.mp4",
+      "punch_instagram_015.mp4",
+      "punch_instagram_016.mp4",
+      "punch_instagram_017.mp4"
+    ],
+    "punch_3": [
+      "punch_youtube_297.mp4",
+      "punch_youtube_298.mp4",
+      "punch_youtube_299.mp4",
+      "punch_youtube_300.mp4"
+    ],
+    "punch_30": [
+      "punch_youtube_330.mp4",
+      "punch_youtube_331.mp4",
+      "punch_youtube_332.mp4"
+    ],
+    "punch_31": [
+      "punch_youtube_302.mp4",
+      "punch_youtube_303.mp4"
+    ],
+    "punch_32": [
+      "punch_youtube_287.mp4",
+      "punch_youtube_288.mp4",
+      "punch_youtube_289.mp4",
+      "punch_youtube_290.mp4",
+      "punch_youtube_291.mp4"
+    ],
+    "punch_33": [
+      "punch_youtube_174.mp4",
+      "punch_youtube_175.mp4",
+      "punch_youtube_176.mp4"
+    ],
+    "punch_34": [
+      "punch_youtube_228.mp4",
+      "punch_youtube_229.mp4"
+    ],
+    "punch_35": [
+      "punch_youtube_160.mp4",
+      "punch_youtube_161.mp4",
+      "punch_youtube_162.mp4"
+    ],
+    "punch_36": [
+      "punch_x_046.mp4",
+      "punch_x_047.mp4"
+    ],
+    "punch_37": [
+      "punch_ucf_crime_77.mp4",
+      "punch_ucf_crime_78.mp4",
+      "punch_ucf_crime_79.mp4",
+      "punch_ucf_crime_80.mp4"
+    ],
+    "punch_38": [
+      "punch_x_006.mp4",
+      "punch_x_007.mp4"
+    ],
+    "punch_39": [
+      "punch_soap2day_021.mp4",
+      "punch_soap2day_022.mp4",
+      "punch_soap2day_023.mp4",
+      "punch_soap2day_024.mp4"
+    ],
+    "punch_4": [
+      "punch_youtube_259.mp4",
+      "punch_youtube_260.mp4",
+      "punch_youtube_261.mp4"
+    ],
+    "punch_40": [
+      "punch_instagram_011.mp4",
+      "punch_instagram_012.mp4",
+      "punch_instagram_013.mp4"
+    ],
+    "punch_41": [
+      "punch_facebook_021.mp4",
+      "punch_facebook_022.mp4",
+      "punch_facebook_023.mp4",
+      "punch_facebook_024.mp4",
+      "punch_facebook_025.mp4"
+    ],
+    "punch_42": [
+      "punch_youtube_124.mp4",
+      "punch_youtube_125.mp4",
+      "punch_youtube_126.mp4"
+    ],
+    "punch_43": [
+      "punch_youtube_164.mp4",
+      "punch_youtube_165.mp4",
+      "punch_youtube_166.mp4"
+    ],
+    "punch_44": [
+      "punch_x_013.mp4",
+      "punch_x_014.mp4",
+      "punch_x_015.mp4",
+      "punch_x_016.mp4"
+    ],
+    "punch_45": [
+      "punch_youtube_294.mp4",
+      "punch_youtube_295.mp4",
+      "punch_youtube_296.mp4"
+    ],
+    "punch_46": [
+      "punch_x_031.mp4",
+      "punch_x_032.mp4",
+      "punch_x_033.mp4",
+      "punch_x_034.mp4",
+      "punch_x_035.mp4"
+    ],
+    "punch_47": [
+      "punch_facebook_029.mp4",
+      "punch_facebook_030.mp4"
+    ],
+    "punch_48": [
+      "punch_soap2day_001.mp4",
+      "punch_soap2day_002.mp4",
+      "punch_soap2day_003.mp4",
+      "punch_soap2day_004.mp4",
+      "punch_soap2day_005.mp4"
+    ],
+    "punch_49": [
+      "punch_x_039.mp4",
+      "punch_x_040.mp4"
+    ],
+    "punch_5": [
+      "punch_youtube_206.mp4",
+      "punch_youtube_207.mp4",
+      "punch_youtube_208.mp4",
+      "punch_youtube_209.mp4",
+      "punch_youtube_210.mp4",
+      "punch_youtube_211.mp4"
+    ],
+    "punch_50": [
+      "punch_instagram_009.mp4",
+      "punch_instagram_010.mp4"
+    ],
+    "punch_51": [
+      "punch_youtube_214.mp4",
+      "punch_youtube_215.mp4"
+    ],
+    "punch_52": [
+      "punch_youtube_178.mp4",
+      "punch_youtube_179.mp4",
+      "punch_youtube_180.mp4",
+      "punch_youtube_181.mp4"
+    ],
+    "punch_53": [
+      "punch_x_021.mp4",
+      "punch_x_022.mp4",
+      "punch_x_023.mp4"
+    ],
+    "punch_54": [
+      "punch_youtube_067.mp4",
+      "punch_youtube_068.mp4"
+    ],
+    "punch_55": [
+      "punch_youtube_183.mp4",
+      "punch_youtube_184.mp4"
+    ],
+    "punch_56": [
+      "punch_x_041.mp4",
+      "punch_x_042.mp4"
+    ],
+    "punch_57": [
+      "punch_youtube_075.mp4",
+      "punch_youtube_076.mp4",
+      "punch_youtube_077.mp4"
+    ],
+    "punch_58": [
+      "punch_facebook_007.mp4",
+      "punch_facebook_008.mp4",
+      "punch_facebook_009.mp4",
+      "punch_facebook_010.mp4"
+    ],
+    "punch_59": [
+      "punch_youtube_306.mp4",
+      "punch_youtube_307.mp4",
+      "punch_youtube_308.mp4"
+    ],
+    "punch_6": [
+      "punch_youtube_193.mp4",
+      "punch_youtube_194.mp4",
+      "punch_youtube_195.mp4",
+      "punch_youtube_196.mp4",
+      "punch_youtube_197.mp4",
+      "punch_youtube_198.mp4",
+      "punch_youtube_199.mp4",
+      "punch_youtube_200.mp4",
+      "punch_youtube_201.mp4",
+      "punch_youtube_203.mp4",
+      "punch_youtube_204.mp4",
+      "punch_youtube_205.mp4"
+    ],
+    "punch_60": [
+      "punch_x_055.mp4",
+      "punch_x_056.mp4",
+      "punch_youtube_256.mp4",
+      "punch_youtube_257.mp4",
+      "punch_youtube_258.mp4"
+    ],
+    "punch_61": [
+      "punch_ucf_crime_57.mp4",
+      "punch_ucf_crime_58.mp4"
+    ],
+    "punch_62": [
+      "punch_x_026.mp4",
+      "punch_x_027.mp4",
+      "punch_x_028.mp4"
+    ],
+    "punch_63": [
+      "punch_facebook_015.mp4",
+      "punch_facebook_016.mp4"
+    ],
+    "punch_64": [
+      "punch_youtube_234.mp4",
+      "punch_youtube_235.mp4"
+    ],
+    "punch_65": [
+      "punch_soap2day_033.mp4",
+      "punch_soap2day_034.mp4"
+    ],
+    "punch_66": [
+      "punch_x_036.mp4",
+      "punch_x_037.mp4",
+      "punch_x_038.mp4"
+    ],
+    "punch_67": [
+      "punch_x_024.mp4",
+      "punch_x_025.mp4"
+    ],
+    "punch_68": [
+      "punch_youtube_106.mp4",
+      "punch_youtube_107.mp4",
+      "punch_youtube_108.mp4",
+      "punch_youtube_109.mp4"
+    ],
+    "punch_69": [
+      "punch_ucf_crime_20.mp4",
+      "punch_ucf_crime_21.mp4"
+    ],
+    "punch_7": [
+      "punch_youtube_187.mp4",
+      "punch_youtube_188.mp4",
+      "punch_youtube_189.mp4",
+      "punch_youtube_190.mp4",
+      "punch_youtube_191.mp4"
+    ],
+    "punch_70": [
+      "punch_x_029.mp4",
+      "punch_x_030.mp4"
+    ],
+    "punch_71": [
+      "punch_youtube_057.mp4",
+      "punch_youtube_058.mp4",
+      "punch_youtube_155.mp4",
+      "punch_youtube_156.mp4",
+      "punch_youtube_157.mp4",
+      "punch_youtube_158.mp4"
+    ],
+    "punch_72": [
+      "punch_youtube_070.mp4",
+      "punch_youtube_071.mp4",
+      "punch_youtube_072.mp4",
+      "punch_youtube_073.mp4"
+    ],
+    "punch_73": [
+      "punch_youtube_082.mp4",
+      "punch_youtube_083.mp4",
+      "punch_youtube_084.mp4",
+      "punch_youtube_085.mp4",
+      "punch_youtube_086.mp4"
+    ],
+    "punch_74": [
+      "punch_youtube_216.mp4",
+      "punch_youtube_217.mp4",
+      "punch_youtube_218.mp4"
+    ],
+    "punch_75": [
+      "punch_facebook_019.mp4",
+      "punch_facebook_020.mp4"
+    ],
+    "punch_76": [
+      "punch_ucf_crime_53.mp4",
+      "punch_ucf_crime_54.mp4"
+    ],
+    "punch_77": [
+      "punch_ucf_crime_67.mp4",
+      "punch_ucf_crime_68.mp4"
+    ],
+    "punch_78": [
+      "punch_ucf_crime_55.mp4",
+      "punch_ucf_crime_56.mp4"
+    ],
+    "punch_79": [
+      "punch_ucf_crime_36.mp4",
+      "punch_ucf_crime_37.mp4"
+    ],
+    "punch_8": [
+      "punch_youtube_231.mp4",
+      "punch_youtube_232.mp4",
+      "punch_youtube_233.mp4"
+    ],
+    "punch_80": [
+      "punch_x_043.mp4",
+      "punch_x_054.mp4",
+      "punch_x_057.mp4"
+    ],
+    "punch_81": [
+      "punch_ucf_crime_62.mp4",
+      "punch_ucf_crime_63.mp4"
+    ],
+    "punch_82": [
+      "punch_youtube_341.mp4",
+      "punch_youtube_342.mp4"
+    ],
+    "punch_83": [
+      "punch_ucf_crime_60.mp4",
+      "punch_ucf_crime_61.mp4"
+    ],
+    "punch_84": [
+      "punch_youtube_078.mp4",
+      "punch_youtube_079.mp4",
+      "punch_youtube_080.mp4",
+      "punch_youtube_081.mp4"
+    ],
+    "punch_85": [
+      "punch_rwf_2000_83.mp4",
+      "punch_rwf_2000_84.mp4"
+    ],
+    "punch_86": [
+      "punch_rwf_2000_87.mp4",
+      "punch_rwf_2000_88.mp4"
+    ],
+    "punch_87": [
+      "punch_rwf_2000_7.mp4",
+      "punch_rwf_2000_8.mp4",
+      "punch_rwf_2000_89.mp4",
+      "punch_rwf_2000_90.mp4"
+    ],
+    "punch_88": [
+      "punch_x_009.mp4",
+      "punch_x_010.mp4"
+    ],
+    "punch_89": [
+      "punch_youtube_114.mp4",
+      "punch_youtube_115.mp4"
+    ],
+    "punch_9": [
+      "punch_youtube_212.mp4",
+      "punch_youtube_213.mp4"
+    ],
+    "punch_90": [
+      "punch_instagram_004.mp4",
+      "punch_instagram_005.mp4"
+    ],
+    "punch_91": [
+      "punch_facebook_026.mp4",
+      "punch_facebook_027.mp4"
+    ],
+    "punch_92": [
+      "punch_rwf_2000_58.mp4",
+      "punch_rwf_2000_59.mp4",
+      "punch_rwf_2000_60.mp4",
+      "punch_rwf_2000_61.mp4"
+    ],
+    "punch_93": [
+      "punch_rwf_2000_51.mp4",
+      "punch_rwf_2000_52.mp4",
+      "punch_rwf_2000_53.mp4"
+    ],
+    "punch_94": [
+      "punch_rwf_2000_30.mp4",
+      "punch_rwf_2000_31.mp4"
+    ],
+    "punch_95": [
+      "punch_facebook_011.mp4",
+      "punch_facebook_012.mp4"
+    ],
+    "no_group": [
+      "punch_chatgpt_025.mp4",
+      "punch_chatgpt_026.mp4",
+      "punch_dailymotion_027.mp4",
+      "punch_facebook_001.mp4",
+      "punch_facebook_002.mp4",
+      "punch_facebook_003.mp4",
+      "punch_facebook_004.mp4",
+      "punch_facebook_005.mp4",
+      "punch_facebook_006.mp4",
+      "punch_facebook_013.mp4",
+      "punch_facebook_014.mp4",
+      "punch_facebook_017.mp4",
+      "punch_facebook_018.mp4",
+      "punch_facebook_028.mp4",
+      "punch_facebook_031.mp4",
+      "punch_facebook_032.mp4",
+      "punch_facebook_349.mp4",
+      "punch_facebook_350.mp4",
+      "punch_facebook_351.mp4",
+      "punch_facebook_352.mp4",
+      "punch_facebook_353.mp4",
+      "punch_facebook_354.mp4",
+      "punch_instagram_001.mp4",
+      "punch_instagram_002.mp4",
+      "punch_instagram_003.mp4",
+      "punch_instagram_006.mp4",
+      "punch_instagram_007.mp4",
+      "punch_instagram_008.mp4",
+      "punch_instagram_018.mp4",
+      "punch_instagram_019.mp4",
+      "punch_instagram_020.mp4",
+      "punch_instagram_021.mp4",
+      "punch_instagram_022.mp4",
+      "punch_instagram_023.mp4",
+      "punch_instagram_024.mp4",
+      "punch_instagram_025.mp4",
+      "punch_instagram_026.mp4",
+      "punch_instagram_027.mp4",
+      "punch_rwf_2000_1.mp4",
+      "punch_rwf_2000_10.mp4",
+      "punch_rwf_2000_100.mp4",
+      "punch_rwf_2000_101.mp4",
+      "punch_rwf_2000_102.mp4",
+      "punch_rwf_2000_103.mp4",
+      "punch_rwf_2000_104.mp4",
+      "punch_rwf_2000_105.mp4",
+      "punch_rwf_2000_106.mp4",
+      "punch_rwf_2000_107.mp4",
+      "punch_rwf_2000_108.mp4",
+      "punch_rwf_2000_109.mp4",
+      "punch_rwf_2000_11.mp4",
+      "punch_rwf_2000_110.mp4",
+      "punch_rwf_2000_111.mp4",
+      "punch_rwf_2000_112.mp4",
+      "punch_rwf_2000_113.mp4",
+      "punch_rwf_2000_114.mp4",
+      "punch_rwf_2000_115.mp4",
+      "punch_rwf_2000_116.mp4",
+      "punch_rwf_2000_117.mp4",
+      "punch_rwf_2000_118.mp4",
+      "punch_rwf_2000_119.mp4",
+      "punch_rwf_2000_12.mp4",
+      "punch_rwf_2000_120.mp4",
+      "punch_rwf_2000_121.mp4",
+      "punch_rwf_2000_122.mp4",
+      "punch_rwf_2000_123.mp4",
+      "punch_rwf_2000_124.mp4",
+      "punch_rwf_2000_125.mp4",
+      "punch_rwf_2000_126.mp4",
+      "punch_rwf_2000_127.mp4",
+      "punch_rwf_2000_128.mp4",
+      "punch_rwf_2000_129.mp4",
+      "punch_rwf_2000_13.mp4",
+      "punch_rwf_2000_130.mp4",
+      "punch_rwf_2000_131.mp4",
+      "punch_rwf_2000_132.mp4",
+      "punch_rwf_2000_133.mp4",
+      "punch_rwf_2000_134.mp4",
+      "punch_rwf_2000_135.mp4",
+      "punch_rwf_2000_136.mp4",
+      "punch_rwf_2000_137.mp4",
+      "punch_rwf_2000_138.mp4",
+      "punch_rwf_2000_139.mp4",
+      "punch_rwf_2000_14.mp4",
+      "punch_rwf_2000_140.mp4",
+      "punch_rwf_2000_141.mp4",
+      "punch_rwf_2000_142.mp4",
+      "punch_rwf_2000_143.mp4",
+      "punch_rwf_2000_144.mp4",
+      "punch_rwf_2000_145.mp4",
+      "punch_rwf_2000_146.mp4",
+      "punch_rwf_2000_147.mp4",
+      "punch_rwf_2000_148.mp4",
+      "punch_rwf_2000_149.mp4",
+      "punch_rwf_2000_15.mp4",
+      "punch_rwf_2000_150.mp4",
+      "punch_rwf_2000_151.mp4",
+      "punch_rwf_2000_152.mp4",
+      "punch_rwf_2000_153.mp4",
+      "punch_rwf_2000_154.mp4",
+      "punch_rwf_2000_155.mp4",
+      "punch_rwf_2000_156.mp4",
+      "punch_rwf_2000_157.mp4",
+      "punch_rwf_2000_158.mp4",
+      "punch_rwf_2000_159.mp4",
+      "punch_rwf_2000_16.mp4",
+      "punch_rwf_2000_160.mp4",
+      "punch_rwf_2000_161.mp4",
+      "punch_rwf_2000_162.mp4",
+      "punch_rwf_2000_163.mp4",
+      "punch_rwf_2000_17.mp4",
+      "punch_rwf_2000_18.mp4",
+      "punch_rwf_2000_19.mp4",
+      "punch_rwf_2000_2.mp4",
+      "punch_rwf_2000_20.mp4",
+      "punch_rwf_2000_21.mp4",
+      "punch_rwf_2000_22.mp4",
+      "punch_rwf_2000_23.mp4",
+      "punch_rwf_2000_24.mp4",
+      "punch_rwf_2000_25.mp4",
+      "punch_rwf_2000_26.mp4",
+      "punch_rwf_2000_27.mp4",
+      "punch_rwf_2000_28.mp4",
+      "punch_rwf_2000_29.mp4",
+      "punch_rwf_2000_3.mp4",
+      "punch_rwf_2000_32.mp4",
+      "punch_rwf_2000_33.mp4",
+      "punch_rwf_2000_34.mp4",
+      "punch_rwf_2000_35.mp4",
+      "punch_rwf_2000_36.mp4",
+      "punch_rwf_2000_37.mp4",
+      "punch_rwf_2000_38.mp4",
+      "punch_rwf_2000_39.mp4",
+      "punch_rwf_2000_4.mp4",
+      "punch_rwf_2000_40.mp4",
+      "punch_rwf_2000_41.mp4",
+      "punch_rwf_2000_42.mp4",
+      "punch_rwf_2000_43.mp4",
+      "punch_rwf_2000_44.mp4",
+      "punch_rwf_2000_45.mp4",
+      "punch_rwf_2000_46.mp4",
+      "punch_rwf_2000_47.mp4",
+      "punch_rwf_2000_48.mp4",
+      "punch_rwf_2000_49.mp4",
+      "punch_rwf_2000_5.mp4",
+      "punch_rwf_2000_50.mp4",
+      "punch_rwf_2000_54.mp4",
+      "punch_rwf_2000_55.mp4",
+      "punch_rwf_2000_56.mp4",
+      "punch_rwf_2000_57.mp4",
+      "punch_rwf_2000_6.mp4",
+      "punch_rwf_2000_62.mp4",
+      "punch_rwf_2000_63.mp4",
+      "punch_rwf_2000_64.mp4",
+      "punch_rwf_2000_65.mp4",
+      "punch_rwf_2000_66.mp4",
+      "punch_rwf_2000_67.mp4",
+      "punch_rwf_2000_68.mp4",
+      "punch_rwf_2000_69.mp4",
+      "punch_rwf_2000_70.mp4",
+      "punch_rwf_2000_71.mp4",
+      "punch_rwf_2000_72.mp4",
+      "punch_rwf_2000_73.mp4",
+      "punch_rwf_2000_74.mp4",
+      "punch_rwf_2000_75.mp4",
+      "punch_rwf_2000_76.mp4",
+      "punch_rwf_2000_77.mp4",
+      "punch_rwf_2000_78.mp4",
+      "punch_rwf_2000_79.mp4",
+      "punch_rwf_2000_80.mp4",
+      "punch_rwf_2000_81.mp4",
+      "punch_rwf_2000_82.mp4",
+      "punch_rwf_2000_85.mp4",
+      "punch_rwf_2000_86.mp4",
+      "punch_rwf_2000_9.mp4",
+      "punch_rwf_2000_91.mp4",
+      "punch_rwf_2000_92.mp4",
+      "punch_rwf_2000_93.mp4",
+      "punch_rwf_2000_94.mp4",
+      "punch_rwf_2000_95.mp4",
+      "punch_rwf_2000_96.mp4",
+      "punch_rwf_2000_97.mp4",
+      "punch_rwf_2000_98.mp4",
+      "punch_rwf_2000_99.mp4",
+      "punch_soap2day_006.mp4",
+      "punch_soap2day_007.mp4",
+      "punch_soap2day_008.mp4",
+      "punch_soap2day_009.mp4",
+      "punch_soap2day_010.mp4",
+      "punch_soap2day_018.mp4",
+      "punch_soap2day_019.mp4",
+      "punch_soap2day_020.mp4",
+      "punch_soap2day_028.mp4",
+      "punch_soap2day_029.mp4",
+      "punch_soap2day_030.mp4",
+      "punch_soap2day_032.mp4",
+      "punch_ucf_crime_1.mp4",
+      "punch_ucf_crime_14.mp4",
+      "punch_ucf_crime_15.mp4",
+      "punch_ucf_crime_19.mp4",
+      "punch_ucf_crime_2.mp4",
+      "punch_ucf_crime_22.mp4",
+      "punch_ucf_crime_27.mp4",
+      "punch_ucf_crime_28.mp4",
+      "punch_ucf_crime_29.mp4",
+      "punch_ucf_crime_3.mp4",
+      "punch_ucf_crime_30.mp4",
+      "punch_ucf_crime_39.mp4",
+      "punch_ucf_crime_4.mp4",
+      "punch_ucf_crime_40.mp4",
+      "punch_ucf_crime_48.mp4",
+      "punch_ucf_crime_64.mp4",
+      "punch_ucf_crime_65.mp4",
+      "punch_ucf_crime_66.mp4",
+      "punch_ucf_crime_69.mp4",
+      "punch_ucf_crime_70.mp4",
+      "punch_ucf_crime_71.mp4",
+      "punch_ucf_crime_75.mp4",
+      "punch_ucf_crime_76.mp4",
+      "punch_x_004.mp4",
+      "punch_x_005.mp4",
+      "punch_x_008.mp4",
+      "punch_x_011.mp4",
+      "punch_x_012.mp4",
+      "punch_x_017.mp4",
+      "punch_youtube_050.mp4",
+      "punch_youtube_051.mp4",
+      "punch_youtube_052.mp4",
+      "punch_youtube_053.mp4",
+      "punch_youtube_054.mp4",
+      "punch_youtube_055.mp4",
+      "punch_youtube_056.mp4",
+      "punch_youtube_059.mp4",
+      "punch_youtube_060.mp4",
+      "punch_youtube_061.mp4",
+      "punch_youtube_062.mp4",
+      "punch_youtube_063.mp4",
+      "punch_youtube_064.mp4",
+      "punch_youtube_065.mp4",
+      "punch_youtube_066.mp4",
+      "punch_youtube_069.mp4",
+      "punch_youtube_074.mp4",
+      "punch_youtube_087.mp4",
+      "punch_youtube_088.mp4",
+      "punch_youtube_089.mp4",
+      "punch_youtube_090.mp4",
+      "punch_youtube_092.mp4",
+      "punch_youtube_093.mp4",
+      "punch_youtube_094.mp4",
+      "punch_youtube_095.mp4",
+      "punch_youtube_096.mp4",
+      "punch_youtube_097.mp4",
+      "punch_youtube_098.mp4",
+      "punch_youtube_099.mp4",
+      "punch_youtube_100.mp4",
+      "punch_youtube_101.mp4",
+      "punch_youtube_102.mp4",
+      "punch_youtube_103.mp4",
+      "punch_youtube_104.mp4",
+      "punch_youtube_105.mp4",
+      "punch_youtube_110.mp4",
+      "punch_youtube_111.mp4",
+      "punch_youtube_112.mp4",
+      "punch_youtube_113.mp4",
+      "punch_youtube_116.mp4",
+      "punch_youtube_117.mp4",
+      "punch_youtube_118.mp4",
+      "punch_youtube_119.mp4",
+      "punch_youtube_120.mp4",
+      "punch_youtube_121.mp4",
+      "punch_youtube_122.mp4",
+      "punch_youtube_123.mp4",
+      "punch_youtube_127.mp4",
+      "punch_youtube_128.mp4",
+      "punch_youtube_129.mp4",
+      "punch_youtube_130.mp4",
+      "punch_youtube_131.mp4",
+      "punch_youtube_132.mp4",
+      "punch_youtube_133.mp4",
+      "punch_youtube_134.mp4",
+      "punch_youtube_135.mp4",
+      "punch_youtube_136.mp4",
+      "punch_youtube_137.mp4",
+      "punch_youtube_138.mp4",
+      "punch_youtube_139.mp4",
+      "punch_youtube_140.mp4",
+      "punch_youtube_141.mp4",
+      "punch_youtube_142.mp4",
+      "punch_youtube_143.mp4",
+      "punch_youtube_144.mp4",
+      "punch_youtube_145.mp4",
+      "punch_youtube_153.mp4",
+      "punch_youtube_154.mp4",
+      "punch_youtube_159.mp4",
+      "punch_youtube_163.mp4",
+      "punch_youtube_169.mp4",
+      "punch_youtube_170.mp4",
+      "punch_youtube_171.mp4",
+      "punch_youtube_172.mp4",
+      "punch_youtube_173.mp4",
+      "punch_youtube_177.mp4",
+      "punch_youtube_182.mp4",
+      "punch_youtube_185.mp4",
+      "punch_youtube_186.mp4",
+      "punch_youtube_192.mp4",
+      "punch_youtube_202.mp4",
+      "punch_youtube_219.mp4",
+      "punch_youtube_220.mp4",
+      "punch_youtube_221.mp4",
+      "punch_youtube_225.mp4",
+      "punch_youtube_226.mp4",
+      "punch_youtube_227.mp4",
+      "punch_youtube_230.mp4",
+      "punch_youtube_236.mp4",
+      "punch_youtube_237.mp4",
+      "punch_youtube_238.mp4",
+      "punch_youtube_239.mp4",
+      "punch_youtube_240.mp4",
+      "punch_youtube_241.mp4",
+      "punch_youtube_242.mp4",
+      "punch_youtube_243.mp4",
+      "punch_youtube_248.mp4",
+      "punch_youtube_249.mp4",
+      "punch_youtube_250.mp4",
+      "punch_youtube_251.mp4",
+      "punch_youtube_252.mp4",
+      "punch_youtube_253.mp4",
+      "punch_youtube_254.mp4",
+      "punch_youtube_255.mp4",
+      "punch_youtube_262.mp4",
+      "punch_youtube_263.mp4",
+      "punch_youtube_264.mp4",
+      "punch_youtube_265.mp4",
+      "punch_youtube_270.mp4",
+      "punch_youtube_271.mp4",
+      "punch_youtube_272.mp4",
+      "punch_youtube_274.mp4",
+      "punch_youtube_283.mp4",
+      "punch_youtube_284.mp4",
+      "punch_youtube_285.mp4",
+      "punch_youtube_286.mp4",
+      "punch_youtube_292.mp4",
+      "punch_youtube_301.mp4",
+      "punch_youtube_304.mp4",
+      "punch_youtube_305.mp4",
+      "punch_youtube_309.mp4",
+      "punch_youtube_310.mp4",
+      "punch_youtube_311.mp4",
+      "punch_youtube_312.mp4",
+      "punch_youtube_313.mp4",
+      "punch_youtube_314.mp4",
+      "punch_youtube_318.mp4",
+      "punch_youtube_319.mp4",
+      "punch_youtube_320.mp4",
+      "punch_youtube_321.mp4",
+      "punch_youtube_322.mp4",
+      "punch_youtube_323.mp4",
+      "punch_youtube_324.mp4",
+      "punch_youtube_325.mp4",
+      "punch_youtube_326.mp4",
+      "punch_youtube_327.mp4",
+      "punch_youtube_328.mp4",
+      "punch_youtube_329.mp4",
+      "punch_youtube_333.mp4",
+      "punch_youtube_334.mp4",
+      "punch_youtube_335.mp4",
+      "punch_youtube_336.mp4",
+      "punch_youtube_337.mp4",
+      "punch_youtube_338.mp4",
+      "punch_youtube_339.mp4",
+      "punch_youtube_340.mp4",
+      "punch_youtube_343.mp4",
+      "punch_youtube_344.mp4",
+      "punch_youtube_345.mp4",
+      "punch_youtube_346.mp4",
+      "punch_youtube_347.mp4",
+      "punch_youtube_348.mp4"
+    ]
+  },
+  "restrain_while_on_feet": {
+    "no_group": [
+      "restrain_while_on_feet_facebook_011.mp4",
+      "restrain_while_on_feet_facebook_012.mp4",
+      "restrain_while_on_feet_facebook_014.mp4",
+      "restrain_while_on_feet_instagram_001.mp4",
+      "restrain_while_on_feet_instagram_010.mp4",
+      "restrain_while_on_feet_instagram_013.mp4",
+      "restrain_while_on_feet_rwf_2000_100.mp4",
+      "restrain_while_on_feet_rwf_2000_101.mp4",
+      "restrain_while_on_feet_rwf_2000_107.mp4",
+      "restrain_while_on_feet_rwf_2000_109.mp4",
+      "restrain_while_on_feet_rwf_2000_111.mp4",
+      "restrain_while_on_feet_rwf_2000_114.mp4",
+      "restrain_while_on_feet_rwf_2000_116.mp4",
+      "restrain_while_on_feet_rwf_2000_117.mp4",
+      "restrain_while_on_feet_rwf_2000_120.mp4",
+      "restrain_while_on_feet_rwf_2000_121.mp4",
+      "restrain_while_on_feet_rwf_2000_13.mp4",
+      "restrain_while_on_feet_rwf_2000_14.mp4",
+      "restrain_while_on_feet_rwf_2000_16.mp4",
+      "restrain_while_on_feet_rwf_2000_18.mp4",
+      "restrain_while_on_feet_rwf_2000_19.mp4",
+      "restrain_while_on_feet_rwf_2000_22.mp4",
+      "restrain_while_on_feet_rwf_2000_24.mp4",
+      "restrain_while_on_feet_rwf_2000_25.mp4",
+      "restrain_while_on_feet_rwf_2000_28.mp4",
+      "restrain_while_on_feet_rwf_2000_31.mp4",
+      "restrain_while_on_feet_rwf_2000_4.mp4",
+      "restrain_while_on_feet_rwf_2000_40.mp4",
+      "restrain_while_on_feet_rwf_2000_45.mp4",
+      "restrain_while_on_feet_rwf_2000_46.mp4",
+      "restrain_while_on_feet_rwf_2000_5.mp4",
+      "restrain_while_on_feet_rwf_2000_54.mp4",
+      "restrain_while_on_feet_rwf_2000_55.mp4",
+      "restrain_while_on_feet_rwf_2000_56.mp4",
+      "restrain_while_on_feet_rwf_2000_57.mp4",
+      "restrain_while_on_feet_rwf_2000_59.mp4",
+      "restrain_while_on_feet_rwf_2000_60.mp4",
+      "restrain_while_on_feet_rwf_2000_61.mp4",
+      "restrain_while_on_feet_rwf_2000_65.mp4",
+      "restrain_while_on_feet_rwf_2000_66.mp4",
+      "restrain_while_on_feet_rwf_2000_73.mp4",
+      "restrain_while_on_feet_rwf_2000_8.mp4",
+      "restrain_while_on_feet_rwf_2000_80.mp4",
+      "restrain_while_on_feet_rwf_2000_81.mp4",
+      "restrain_while_on_feet_rwf_2000_82.mp4",
+      "restrain_while_on_feet_rwf_2000_90.mp4",
+      "restrain_while_on_feet_rwf_2000_92.mp4",
+      "restrain_while_on_feet_rwf_2000_93.mp4",
+      "restrain_while_on_feet_rwf_2000_96.mp4",
+      "restrain_while_on_feet_rwf_2000_99.mp4",
+      "restrain_while_on_feet_soap2day_001.mp4",
+      "restrain_while_on_feet_soap2day_002.mp4",
+      "restrain_while_on_feet_soap2day_003.mp4",
+      "restrain_while_on_feet_soap2day_004.mp4",
+      "restrain_while_on_feet_soap2day_005.mp4",
+      "restrain_while_on_feet_ucf_crime_1.mp4",
+      "restrain_while_on_feet_ucf_crime_2.mp4",
+      "restrain_while_on_feet_ucf_crime_8.mp4",
+      "restrain_while_on_feet_ucf_crime_9.mp4",
+      "restrain_while_on_feet_x_001.mp4",
+      "restrain_while_on_feet_x_006.mp4",
+      "restrain_while_on_feet_youtube_001.mp4",
+      "restrain_while_on_feet_youtube_002.mp4",
+      "restrain_while_on_feet_youtube_009.mp4",
+      "restrain_while_on_feet_youtube_010.mp4",
+      "restrain_while_on_feet_youtube_014.mp4",
+      "restrain_while_on_feet_youtube_015.mp4",
+      "restrain_while_on_feet_youtube_016.mp4",
+      "restrain_while_on_feet_youtube_018.mp4",
+      "restrain_while_on_feet_youtube_019.mp4",
+      "restrain_while_on_feet_youtube_027.mp4",
+      "restrain_while_on_feet_youtube_028.mp4",
+      "restrain_while_on_feet_youtube_029.mp4",
+      "restrain_while_on_feet_youtube_031.mp4",
+      "restrain_while_on_feet_youtube_032.mp4",
+      "restrain_while_on_feet_youtube_035.mp4",
+      "restrain_while_on_feet_youtube_039.mp4",
+      "restrain_while_on_feet_youtube_041.mp4",
+      "restrain_while_on_feet_youtube_056.mp4"
+    ],
+    "restrain_while_on_feet_youtube_1": [
+      "restrain_while_on_feet_youtube_045.mp4",
+      "restrain_while_on_feet_youtube_046.mp4",
+      "restrain_while_on_feet_youtube_047.mp4",
+      "restrain_while_on_feet_youtube_048.mp4"
+    ],
+    "restrain_while_on_feet_youtube_10": [
+      "restrain_while_on_feet_rwf_2000_49.mp4",
+      "restrain_while_on_feet_rwf_2000_50.mp4"
+    ],
+    "restrain_while_on_feet_youtube_11": [
+      "restrain_while_on_feet_facebook_001.mp4",
+      "restrain_while_on_feet_facebook_002.mp4",
+      "restrain_while_on_feet_facebook_003.mp4",
+      "restrain_while_on_feet_facebook_004.mp4"
+    ],
+    "restrain_while_on_feet_youtube_13": [
+      "restrain_while_on_feet_rwf_2000_43.mp4",
+      "restrain_while_on_feet_rwf_2000_44.mp4"
+    ],
+    "restrain_while_on_feet_youtube_14": [
+      "restrain_while_on_feet_facebook_009.mp4",
+      "restrain_while_on_feet_facebook_010.mp4"
+    ],
+    "restrain_while_on_feet_youtube_15": [
+      "restrain_while_on_feet_rwf_2000_112.mp4",
+      "restrain_while_on_feet_rwf_2000_113.mp4",
+      "restrain_while_on_feet_rwf_2000_38.mp4",
+      "restrain_while_on_feet_rwf_2000_39.mp4"
+    ],
+    "restrain_while_on_feet_youtube_16": [
+      "restrain_while_on_feet_x_007.mp4",
+      "restrain_while_on_feet_x_008.mp4"
+    ],
+    "restrain_while_on_feet_youtube_5": [
+      "restrain_while_on_feet_youtube_006.mp4",
+      "restrain_while_on_feet_youtube_007.mp4"
+    ],
+    "restrain_while_on_feet_youtube_6": [
+      "restrain_while_on_feet_youtube_003.mp4",
+      "restrain_while_on_feet_youtube_004.mp4"
+    ],
+    "restrain_while_on_feet_youtube_7": [
+      "restrain_while_on_feet_ucf_crime_11.mp4",
+      "restrain_while_on_feet_ucf_crime_12.mp4"
+    ],
+    "restrain_while_on_feet_youtube_8": [
+      "restrain_while_on_feet_ucf_crime_13.mp4",
+      "restrain_while_on_feet_ucf_crime_14.mp4",
+      "restrain_while_on_feet_ucf_crime_15.mp4"
+    ]
+  },
+  "shove": {
+    "no_group": [
+      "shove_facebook_001.mp4",
+      "shove_facebook_002.mp4",
+      "shove_facebook_005.mp4",
+      "shove_rwf_2000_1.mp4",
+      "shove_rwf_2000_10.mp4",
+      "shove_rwf_2000_12.mp4",
+      "shove_rwf_2000_13.mp4",
+      "shove_rwf_2000_14.mp4",
+      "shove_rwf_2000_15.mp4",
+      "shove_rwf_2000_16.mp4",
+      "shove_rwf_2000_2.mp4",
+      "shove_rwf_2000_21.mp4",
+      "shove_rwf_2000_22.mp4",
+      "shove_rwf_2000_23.mp4",
+      "shove_rwf_2000_24.mp4",
+      "shove_rwf_2000_3.mp4",
+      "shove_rwf_2000_31.mp4",
+      "shove_rwf_2000_32.mp4",
+      "shove_rwf_2000_33.mp4",
+      "shove_rwf_2000_34.mp4",
+      "shove_rwf_2000_4.mp4",
+      "shove_rwf_2000_42.mp4",
+      "shove_rwf_2000_43.mp4",
+      "shove_rwf_2000_44.mp4",
+      "shove_rwf_2000_45.mp4",
+      "shove_rwf_2000_46.mp4",
+      "shove_rwf_2000_47.mp4",
+      "shove_rwf_2000_48.mp4",
+      "shove_rwf_2000_5.mp4",
+      "shove_rwf_2000_51.mp4",
+      "shove_rwf_2000_52.mp4",
+      "shove_rwf_2000_53.mp4",
+      "shove_rwf_2000_54.mp4",
+      "shove_rwf_2000_55.mp4",
+      "shove_rwf_2000_56.mp4",
+      "shove_rwf_2000_57.mp4",
+      "shove_rwf_2000_6.mp4",
+      "shove_rwf_2000_60.mp4",
+      "shove_rwf_2000_61.mp4",
+      "shove_rwf_2000_62.mp4",
+      "shove_rwf_2000_63.mp4",
+      "shove_rwf_2000_64.mp4",
+      "shove_rwf_2000_66.mp4",
+      "shove_rwf_2000_67.mp4",
+      "shove_rwf_2000_69.mp4",
+      "shove_rwf_2000_7.mp4",
+      "shove_rwf_2000_70.mp4",
+      "shove_rwf_2000_72.mp4",
+      "shove_rwf_2000_73.mp4",
+      "shove_rwf_2000_75.mp4",
+      "shove_rwf_2000_76.mp4",
+      "shove_rwf_2000_77.mp4",
+      "shove_rwf_2000_8.mp4",
+      "shove_rwf_2000_9.mp4",
+      "shove_soap2day_001.mp4",
+      "shove_soap2day_002.mp4",
+      "shove_soap2day_003.mp4",
+      "shove_soap2day_008.mp4",
+      "shove_soap2day_009.mp4",
+      "shove_soap2day_010.mp4",
+      "shove_soap2day_011.mp4",
+      "shove_soap2day_012.mp4",
+      "shove_soap2day_015.mp4",
+      "shove_soap2day_027.mp4",
+      "shove_soap2day_028.mp4",
+      "shove_soap2day_030.mp4",
+      "shove_soap2day_032.mp4",
+      "shove_soap2day_033.mp4",
+      "shove_soap2day_034.mp4",
+      "shove_soap2day_035.mp4",
+      "shove_soap2day_036.mp4",
+      "shove_soap2day_037.mp4",
+      "shove_ucf_crime_1.mp4",
+      "shove_ucf_crime_3.mp4",
+      "shove_x_001.mp4",
+      "shove_x_002.mp4",
+      "shove_x_003.mp4",
+      "shove_youtube_038.mp4",
+      "shove_youtube_039.mp4",
+      "shove_youtube_040.mp4",
+      "shove_youtube_041.mp4",
+      "shove_youtube_045.mp4",
+      "shove_youtube_046.mp4",
+      "shove_youtube_051.mp4",
+      "shove_youtube_052.mp4",
+      "shove_youtube_053.mp4",
+      "shove_youtube_055.mp4",
+      "shove_youtube_056.mp4",
+      "shove_youtube_057.mp4",
+      "shove_youtube_058.mp4",
+      "shove_youtube_059.mp4",
+      "shove_youtube_060.mp4",
+      "shove_youtube_061.mp4",
+      "shove_youtube_062.mp4",
+      "shove_youtube_063.mp4",
+      "shove_youtube_064.mp4",
+      "shove_youtube_065.mp4",
+      "shove_youtube_066.mp4",
+      "shove_youtube_067.mp4",
+      "shove_youtube_068.mp4",
+      "shove_youtube_069.mp4",
+      "shove_youtube_076.mp4",
+      "shove_youtube_077.mp4",
+      "shove_youtube_078.mp4",
+      "shove_youtube_079.mp4",
+      "shove_youtube_080.mp4",
+      "shove_youtube_081.mp4",
+      "shove_youtube_082.mp4",
+      "shove_youtube_083.mp4",
+      "shove_youtube_097.mp4",
+      "shove_youtube_098.mp4",
+      "shove_youtube_099.mp4",
+      "shove_youtube_100.mp4",
+      "shove_youtube_101.mp4",
+      "shove_youtube_102.mp4",
+      "shove_youtube_103.mp4",
+      "shove_youtube_104.mp4",
+      "shove_youtube_105.mp4",
+      "shove_youtube_106.mp4",
+      "shove_youtube_107.mp4",
+      "shove_youtube_108.mp4",
+      "shove_youtube_109.mp4",
+      "shove_youtube_110.mp4",
+      "shove_youtube_111.mp4",
+      "shove_youtube_112.mp4",
+      "shove_youtube_116.mp4",
+      "shove_youtube_117.mp4",
+      "shove_youtube_118.mp4",
+      "shove_youtube_120.mp4",
+      "shove_youtube_121.mp4",
+      "shove_youtube_122.mp4",
+      "shove_youtube_123.mp4",
+      "shove_youtube_124.mp4",
+      "shove_youtube_125.mp4",
+      "shove_youtube_134.mp4",
+      "shove_youtube_136.mp4",
+      "shove_youtube_139.mp4",
+      "shove_youtube_140.mp4",
+      "shove_youtube_141.mp4",
+      "shove_youtube_143.mp4",
+      "shove_youtube_144.mp4",
+      "shove_youtube_145.mp4",
+      "shove_youtube_146.mp4",
+      "shove_youtube_147.mp4",
+      "shove_youtube_148.mp4",
+      "shove_youtube_149.mp4",
+      "shove_youtube_151.mp4",
+      "shove_youtube_152.mp4",
+      "shove_youtube_153.mp4",
+      "shove_youtube_155.mp4",
+      "shove_youtube_156.mp4",
+      "shove_youtube_158.mp4",
+      "shove_youtube_159.mp4",
+      "shove_youtube_160.mp4",
+      "shove_youtube_161.mp4",
+      "shove_youtube_164.mp4",
+      "shove_youtube_165.mp4",
+      "shove_youtube_166.mp4",
+      "shove_youtube_167.mp4",
+      "shove_youtube_168.mp4",
+      "shove_youtube_169.mp4",
+      "shove_youtube_170.mp4",
+      "shove_youtube_171.mp4",
+      "shove_youtube_172.mp4",
+      "shove_youtube_178.mp4",
+      "shove_youtube_184.mp4",
+      "shove_youtube_185.mp4",
+      "shove_youtube_187.mp4",
+      "shove_youtube_188.mp4",
+      "shove_youtube_189.mp4",
+      "shove_youtube_190.mp4",
+      "shove_youtube_195.mp4",
+      "shove_youtube_197.mp4",
+      "shove_youtube_198.mp4",
+      "shove_youtube_199.mp4",
+      "shove_youtube_204.mp4",
+      "shove_youtube_205.mp4",
+      "shove_youtube_210.mp4",
+      "shove_youtube_211.mp4",
+      "shove_youtube_212.mp4",
+      "shove_youtube_213.mp4",
+      "shove_youtube_216.mp4",
+      "shove_youtube_217.mp4",
+      "shove_youtube_218.mp4",
+      "shove_youtube_219.mp4",
+      "shove_youtube_222.mp4",
+      "shove_youtube_223.mp4",
+      "shove_youtube_224.mp4",
+      "shove_youtube_225.mp4",
+      "shove_youtube_226.mp4",
+      "shove_youtube_229.mp4",
+      "shove_youtube_240.mp4",
+      "shove_youtube_241.mp4",
+      "shove_youtube_242.mp4",
+      "shove_youtube_243.mp4",
+      "shove_youtube_246.mp4",
+      "shove_youtube_247.mp4",
+      "shove_youtube_248.mp4",
+      "shove_youtube_249.mp4",
+      "shove_youtube_250.mp4",
+      "shove_youtube_251.mp4",
+      "shove_youtube_252.mp4",
+      "shove_youtube_253.mp4",
+      "shove_youtube_254.mp4",
+      "shove_youtube_255.mp4",
+      "shove_youtube_262.mp4",
+      "shove_youtube_263.mp4",
+      "shove_youtube_264.mp4",
+      "shove_youtube_265.mp4",
+      "shove_youtube_266.mp4",
+      "shove_youtube_267.mp4",
+      "shove_youtube_268.mp4",
+      "shove_youtube_269.mp4",
+      "shove_youtube_279.mp4",
+      "shove_youtube_280.mp4",
+      "shove_youtube_282.mp4",
+      "shove_youtube_283.mp4",
+      "shove_youtube_284.mp4",
+      "shove_youtube_285.mp4",
+      "shove_youtube_286.mp4",
+      "shove_youtube_287.mp4",
+      "shove_youtube_288.mp4",
+      "shove_youtube_289.mp4",
+      "shove_youtube_292.mp4",
+      "shove_youtube_293.mp4",
+      "shove_youtube_294.mp4",
+      "shove_youtube_295.mp4",
+      "shove_youtube_296.mp4",
+      "shove_youtube_300.mp4",
+      "shove_youtube_302.mp4",
+      "shove_youtube_307.mp4",
+      "shove_youtube_308.mp4",
+      "shove_youtube_309.mp4",
+      "shove_youtube_310.mp4",
+      "shove_youtube_314.mp4",
+      "shove_youtube_315.mp4",
+      "shove_youtube_318.mp4",
+      "shove_youtube_319.mp4",
+      "shove_youtube_324.mp4",
+      "shove_youtube_326.mp4",
+      "shove_youtube_327.mp4",
+      "shove_youtube_328.mp4",
+      "shove_youtube_331.mp4",
+      "shove_youtube_332.mp4",
+      "shove_youtube_333.mp4",
+      "shove_youtube_335.mp4",
+      "shove_youtube_336.mp4",
+      "shove_youtube_339.mp4",
+      "shove_youtube_340.mp4"
+    ],
+    "Shove_youtube_1": [
+      "shove_youtube_084.mp4",
+      "shove_youtube_085.mp4",
+      "shove_youtube_086.mp4",
+      "shove_youtube_087.mp4",
+      "shove_youtube_088.mp4",
+      "shove_youtube_337.mp4",
+      "shove_youtube_338.mp4"
+    ],
+    "Shove_youtube_10": [
+      "shove_youtube_180.mp4",
+      "shove_youtube_181.mp4"
+    ],
+    "Shove_youtube_11": [
+      "shove_youtube_047.mp4",
+      "shove_youtube_048.mp4",
+      "shove_youtube_049.mp4",
+      "shove_youtube_050.mp4"
+    ],
+    "Shove_youtube_12": [
+      "shove_youtube_297.mp4",
+      "shove_youtube_298.mp4",
+      "shove_youtube_299.mp4"
+    ],
+    "Shove_youtube_13": [
+      "shove_youtube_191.mp4",
+      "shove_youtube_192.mp4",
+      "shove_youtube_193.mp4"
+    ],
+    "Shove_youtube_14": [
+      "shove_youtube_175.mp4",
+      "shove_youtube_177.mp4"
+    ],
+    "Shove_youtube_15": [
+      "shove_youtube_137.mp4",
+      "shove_youtube_138.mp4"
+    ],
+    "Shove_youtube_16": [
+      "shove_youtube_220.mp4",
+      "shove_youtube_221.mp4"
+    ],
+    "Shove_youtube_17": [
+      "shove_youtube_162.mp4",
+      "shove_youtube_163.mp4"
+    ],
+    "Shove_youtube_18": [
+      "shove_youtube_036.mp4"
+    ],
+    "Shove_youtube_19": [
+      "shove_youtube_322.mp4"
+    ],
+    "Shove_youtube_2": [
+      "shove_youtube_256.mp4",
+      "shove_youtube_257.mp4",
+      "shove_youtube_258.mp4",
+      "shove_youtube_259.mp4",
+      "shove_youtube_260.mp4",
+      "shove_youtube_261.mp4"
+    ],
+    "Shove_youtube_20": [
+      "shove_youtube_244.mp4",
+      "shove_youtube_245.mp4"
+    ],
+    "Shove_youtube_21": [
+      "shove_youtube_329.mp4",
+      "shove_youtube_330.mp4"
+    ],
+    "Shove_youtube_22": [
+      "shove_youtube_127.mp4",
+      "shove_youtube_128.mp4",
+      "shove_youtube_129.mp4",
+      "shove_youtube_130.mp4",
+      "shove_youtube_131.mp4",
+      "shove_youtube_132.mp4"
+    ],
+    "Shove_youtube_23": [
+      "shove_youtube_200.mp4",
+      "shove_youtube_201.mp4",
+      "shove_youtube_202.mp4"
+    ],
+    "Shove_youtube_24": [
+      "shove_youtube_071.mp4"
+    ],
+    "Shove_youtube_25": [
+      "shove_youtube_072.mp4",
+      "shove_youtube_073.mp4",
+      "shove_youtube_074.mp4",
+      "shove_youtube_075.mp4"
+    ],
+    "Shove_youtube_26": [
+      "shove_youtube_042.mp4"
+    ],
+    "Shove_youtube_27": [
+      "shove_youtube_089.mp4",
+      "shove_youtube_090.mp4",
+      "shove_youtube_091.mp4",
+      "shove_youtube_093.mp4",
+      "shove_youtube_094.mp4",
+      "shove_youtube_095.mp4"
+    ],
+    "Shove_youtube_28": [
+      "shove_youtube_113.mp4",
+      "shove_youtube_114.mp4",
+      "shove_youtube_115.mp4"
+    ],
+    "Shove_youtube_3": [
+      "shove_youtube_303.mp4",
+      "shove_youtube_305.mp4",
+      "shove_youtube_306.mp4"
+    ],
+    "Shove_youtube_30": [
+      "shove_facebook_004.mp4"
+    ],
+    "Shove_youtube_4": [
+      "shove_youtube_270.mp4",
+      "shove_youtube_271.mp4"
+    ],
+    "Shove_youtube_5": [
+      "shove_youtube_273.mp4",
+      "shove_youtube_274.mp4",
+      "shove_youtube_275.mp4"
+    ],
+    "Shove_youtube_6": [
+      "shove_youtube_276.mp4",
+      "shove_youtube_277.mp4",
+      "shove_youtube_278.mp4"
+    ],
+    "Shove_youtube_7": [
+      "shove_youtube_230.mp4",
+      "shove_youtube_231.mp4",
+      "shove_youtube_232.mp4",
+      "shove_youtube_233.mp4",
+      "shove_youtube_234.mp4"
+    ],
+    "Shove_youtube_8": [
+      "shove_youtube_215.mp4"
+    ],
+    "shove_2": [
+      "shove_2_trim_0.mp4"
+    ]
+  },
+  "slap": {
+    "no_group": [
+      "slap_dailymotion_005.mp4",
+      "slap_dailymotion_006.mp4",
+      "slap_dailymotion_007.mp4",
+      "slap_facebook_014.mp4",
+      "slap_facebook_020.mp4",
+      "slap_facebook_053.mp4",
+      "slap_facebook_054.mp4",
+      "slap_instagram_001.mp4",
+      "slap_rwf_2000_1.mp4",
+      "slap_rwf_2000_14.mp4",
+      "slap_rwf_2000_15.mp4",
+      "slap_rwf_2000_16.mp4",
+      "slap_rwf_2000_17.mp4",
+      "slap_rwf_2000_18.mp4",
+      "slap_rwf_2000_2.mp4",
+      "slap_rwf_2000_20.mp4",
+      "slap_rwf_2000_23.mp4",
+      "slap_rwf_2000_25.mp4",
+      "slap_rwf_2000_29.mp4",
+      "slap_rwf_2000_3.mp4",
+      "slap_rwf_2000_31.mp4",
+      "slap_rwf_2000_32.mp4",
+      "slap_rwf_2000_33.mp4",
+      "slap_rwf_2000_34.mp4",
+      "slap_rwf_2000_35.mp4",
+      "slap_rwf_2000_36.mp4",
+      "slap_rwf_2000_37.mp4",
+      "slap_rwf_2000_38.mp4",
+      "slap_rwf_2000_39.mp4",
+      "slap_rwf_2000_4.mp4",
+      "slap_soap2day_001.mp4",
+      "slap_ucf_crime_3.mp4",
+      "slap_youtube_008.mp4",
+      "slap_youtube_009.mp4",
+      "slap_youtube_010.mp4",
+      "slap_youtube_011.mp4",
+      "slap_youtube_012.mp4"
+    ],
+    "Slap_youtube_10": [
+      "slap_ucf_crime_1.mp4",
+      "slap_ucf_crime_2.mp4"
+    ],
+    "Slap_youtube_11": [
+      "slap_x_001.mp4",
+      "slap_x_002.mp4",
+      "slap_x_003.mp4",
+      "slap_x_004.mp4",
+      "slap_x_005.mp4",
+      "slap_x_006.mp4",
+      "slap_x_007.mp4"
+    ],
+    "Slap_youtube_12": [
+      "slap_facebook_055.mp4",
+      "slap_facebook_056.mp4",
+      "slap_facebook_057.mp4"
+    ],
+    "Slap_youtube_13": [
+      "slap_rwf_2000_10.mp4",
+      "slap_rwf_2000_11.mp4"
+    ],
+    "Slap_youtube_14": [
+      "slap_rwf_2000_12.mp4",
+      "slap_rwf_2000_13.mp4"
+    ],
+    "Slap_youtube_15": [
+      "slap_rwf_2000_21.mp4",
+      "slap_rwf_2000_22.mp4"
+    ],
+    "Slap_youtube_16": [
+      "slap_rwf_2000_26.mp4",
+      "slap_rwf_2000_27.mp4",
+      "slap_rwf_2000_28.mp4"
+    ],
+    "Slap_youtube_17": [
+      "slap_dailymotion_002.mp4",
+      "slap_dailymotion_003.mp4",
+      "slap_dailymotion_004.mp4"
+    ],
+    "Slap_youtube_18": [
+      "slap_facebook_001.mp4",
+      "slap_facebook_002.mp4",
+      "slap_facebook_003.mp4",
+      "slap_facebook_005.mp4",
+      "slap_facebook_008.mp4",
+      "slap_facebook_009.mp4",
+      "slap_facebook_010.mp4",
+      "slap_facebook_011.mp4",
+      "slap_facebook_012.mp4",
+      "slap_facebook_013.mp4"
+    ],
+    "Slap_youtube_19": [
+      "slap_facebook_004.mp4",
+      "slap_facebook_006.mp4",
+      "slap_facebook_007.mp4"
+    ],
+    "Slap_youtube_20": [
+      "slap_facebook_015.mp4",
+      "slap_facebook_016.mp4"
+    ],
+    "Slap_youtube_21": [
+      "slap_facebook_017.mp4",
+      "slap_facebook_018.mp4",
+      "slap_facebook_019.mp4"
+    ],
+    "Slap_youtube_3": [
+      "slap_youtube_013.mp4",
+      "slap_youtube_014.mp4",
+      "slap_youtube_015.mp4"
+    ],
+    "Slap_youtube_9": [
+      "slap_rwf_2000_5.mp4",
+      "slap_rwf_2000_6.mp4",
+      "slap_rwf_2000_7.mp4",
+      "slap_rwf_2000_8.mp4",
+      "slap_rwf_2000_9.mp4"
+    ]
+  },
+  "snatching": {
+    "no_group": [
+      "snatching_facebook_004.mp4",
+      "snatching_ucf_crime_7.mp4",
+      "snatching_youtube_001.mp4",
+      "snatching_youtube_002.mp4",
+      "snatching_youtube_003.mp4"
+    ],
+    "snatch_3": [
+      "snatch_3_trim_3.mp4",
+      "snatch_3_trim_4.mp4"
+    ],
+    "snatch_4": [
+      "snatch_4_trim_1.mp4"
+    ],
+    "snatch_5": [
+      "snatch_5_trim_1.mp4",
+      "snatch_5_trim_2.mp4"
+    ]
+  },
+  "talking_aggressively": {
+    "no_group": [
+      "talking_aggressively_facebook_005.mp4",
+      "talking_aggressively_youtube_001.mp4",
+      "talking_aggressively_youtube_002.mp4"
+    ],
+    "Talking_aggressively_facebook_1": [
+      "talking_aggressively_facebook_001.mp4",
+      "talking_aggressively_facebook_002.mp4",
+      "talking_aggressively_facebook_003.mp4",
+      "talking_aggressively_facebook_004.mp4"
+    ],
+    "Talking_aggressively_youtube_1": [
+      "talking_aggressively_youtube_003.mp4",
+      "talking_aggressively_youtube_004.mp4",
+      "talking_aggressively_youtube_005.mp4",
+      "talking_aggressively_youtube_006.mp4",
+      "talking_aggressively_youtube_007.mp4",
+      "talking_aggressively_youtube_008.mp4",
+      "talking_aggressively_youtube_009.mp4"
+    ]
+  },
+  "aggressive_talking": {
+    "aggressive__talking_1": [
+      "aggressive__talking_1_trim_0.mp4",
+      "aggressive__talking_1_trim_1.mp4",
+      "aggressive__talking_1_trim_2.mp4",
+      "aggressive__talking_1_trim_3.mp4"
+    ],
+    "aggressive__talking_2": [
+      "aggressive__talking_2_trim_0.mp4",
+      "aggressive__talking_2_trim_1.mp4",
+      "aggressive__talking_2_trim_2.mp4",
+      "aggressive__talking_2_trim_3.mp4",
+      "aggressive__talking_2_trim_4.mp4",
+      "aggressive__talking_2_trim_5.mp4",
+      "aggressive__talking_2_trim_6.mp4"
+    ],
+    "aggressive__talking_3": [
+      "aggressive__talking_3_trim_0.mp4",
+      "aggressive__talking_3_trim_1.mp4",
+      "aggressive__talking_3_trim_10.mp4",
+      "aggressive__talking_3_trim_11.mp4",
+      "aggressive__talking_3_trim_12.mp4",
+      "aggressive__talking_3_trim_13.mp4",
+      "aggressive__talking_3_trim_2.mp4",
+      "aggressive__talking_3_trim_3.mp4",
+      "aggressive__talking_3_trim_4.mp4",
+      "aggressive__talking_3_trim_5.mp4",
+      "aggressive__talking_3_trim_6.mp4",
+      "aggressive__talking_3_trim_7.mp4",
+      "aggressive__talking_3_trim_8.mp4",
+      "aggressive__talking_3_trim_9.mp4"
+    ],
+    "aggressive__talking_4": [
+      "aggressive__talking_4_trim_0.mp4",
+      "aggressive__talking_4_trim_1.mp4",
+      "aggressive__talking_4_trim_2.mp4",
+      "aggressive__talking_4_trim_3.mp4",
+      "aggressive__talking_4_trim_4.mp4",
+      "aggressive__talking_4_trim_5.mp4",
+      "aggressive__talking_4_trim_6.mp4",
+      "aggressive__talking_4_trim_7.mp4",
+      "aggressive__talking_4_trim_8.mp4",
+      "aggressive__talking_4_trim_9.mp4"
+    ],
+    "aggressive__talking_5": [
+      "aggressive__talking_5_trim_0.mp4",
+      "aggressive__talking_5_trim_1.mp4",
+      "aggressive__talking_5_trim_2.mp4",
+      "aggressive__talking_5_trim_3.mp4",
+      "aggressive__talking_5_trim_4.mp4",
+      "aggressive__talking_5_trim_5.mp4",
+      "aggressive__talking_5_trim_6.mp4"
+    ],
+    "aggressive__talking_6": [
+      "aggressive__talking_6_trim_0.mp4",
+      "aggressive__talking_6_trim_1.mp4",
+      "aggressive__talking_6_trim_2.mp4",
+      "aggressive__talking_6_trim_3.mp4",
+      "aggressive__talking_6_trim_4.mp4",
+      "aggressive__talking_6_trim_5.mp4",
+      "aggressive__talking_6_trim_6.mp4",
+      "aggressive__talking_6_trim_7.mp4",
+      "aggressive__talking_6_trim_8.mp4"
+    ],
+    "aggressive__talking_7": [
+      "aggressive__talking_7_trim_0.mp4",
+      "aggressive__talking_7_trim_1.mp4",
+      "aggressive__talking_7_trim_2.mp4"
+    ]
+  },
+  "hair_grabbing": {
+    "hair__grab_1": [
+      "hair__grab_1_trim_2.mp4"
+    ],
+    "hair__grab_2": [
+      "hair__grab_2_trim_1.mp4",
+      "hair__grab_2_trim_2.mp4",
+      "hair__grab_2_trim_3.mp4",
+      "hair__grab_2_trim_4.mp4",
+      "hair__grab_2_trim_5.mp4",
+      "hair__grab_2_trim_6.mp4",
+      "hair__grab_2_trim_7.mp4"
+    ],
+    "hair__grab_3": [
+      "hair__grab_3_trim_0.mp4",
+      "hair__grab_3_trim_1.mp4"
+    ],
+    "hair__grab_4": [
+      "hair__grab_4_trim_0.mp4",
+      "hair__grab_4_trim_1.mp4",
+      "hair__grab_4_trim_10.mp4",
+      "hair__grab_4_trim_100.mp4",
+      "hair__grab_4_trim_101.mp4",
+      "hair__grab_4_trim_102.mp4",
+      "hair__grab_4_trim_11.mp4",
+      "hair__grab_4_trim_12.mp4",
+      "hair__grab_4_trim_13.mp4",
+      "hair__grab_4_trim_14.mp4",
+      "hair__grab_4_trim_15.mp4",
+      "hair__grab_4_trim_16.mp4",
+      "hair__grab_4_trim_17.mp4",
+      "hair__grab_4_trim_18.mp4",
+      "hair__grab_4_trim_19.mp4",
+      "hair__grab_4_trim_2.mp4",
+      "hair__grab_4_trim_20.mp4",
+      "hair__grab_4_trim_21.mp4",
+      "hair__grab_4_trim_22.mp4",
+      "hair__grab_4_trim_23.mp4",
+      "hair__grab_4_trim_24.mp4",
+      "hair__grab_4_trim_25.mp4",
+      "hair__grab_4_trim_26.mp4",
+      "hair__grab_4_trim_27.mp4",
+      "hair__grab_4_trim_28.mp4",
+      "hair__grab_4_trim_29.mp4",
+      "hair__grab_4_trim_3.mp4",
+      "hair__grab_4_trim_30.mp4",
+      "hair__grab_4_trim_31.mp4",
+      "hair__grab_4_trim_32.mp4",
+      "hair__grab_4_trim_33.mp4",
+      "hair__grab_4_trim_34.mp4",
+      "hair__grab_4_trim_35.mp4",
+      "hair__grab_4_trim_36.mp4",
+      "hair__grab_4_trim_37.mp4",
+      "hair__grab_4_trim_38.mp4",
+      "hair__grab_4_trim_39.mp4",
+      "hair__grab_4_trim_4.mp4",
+      "hair__grab_4_trim_40.mp4",
+      "hair__grab_4_trim_41.mp4",
+      "hair__grab_4_trim_42.mp4",
+      "hair__grab_4_trim_43.mp4",
+      "hair__grab_4_trim_44.mp4",
+      "hair__grab_4_trim_45.mp4",
+      "hair__grab_4_trim_46.mp4",
+      "hair__grab_4_trim_47.mp4",
+      "hair__grab_4_trim_48.mp4",
+      "hair__grab_4_trim_49.mp4",
+      "hair__grab_4_trim_5.mp4",
+      "hair__grab_4_trim_50.mp4",
+      "hair__grab_4_trim_51.mp4",
+      "hair__grab_4_trim_52.mp4",
+      "hair__grab_4_trim_53.mp4",
+      "hair__grab_4_trim_54.mp4",
+      "hair__grab_4_trim_55.mp4",
+      "hair__grab_4_trim_56.mp4",
+      "hair__grab_4_trim_57.mp4",
+      "hair__grab_4_trim_58.mp4",
+      "hair__grab_4_trim_59.mp4",
+      "hair__grab_4_trim_6.mp4",
+      "hair__grab_4_trim_60.mp4",
+      "hair__grab_4_trim_61.mp4",
+      "hair__grab_4_trim_62.mp4",
+      "hair__grab_4_trim_63.mp4",
+      "hair__grab_4_trim_64.mp4",
+      "hair__grab_4_trim_65.mp4",
+      "hair__grab_4_trim_66.mp4",
+      "hair__grab_4_trim_67.mp4",
+      "hair__grab_4_trim_68.mp4",
+      "hair__grab_4_trim_69.mp4",
+      "hair__grab_4_trim_7.mp4",
+      "hair__grab_4_trim_70.mp4",
+      "hair__grab_4_trim_71.mp4",
+      "hair__grab_4_trim_72.mp4",
+      "hair__grab_4_trim_73.mp4",
+      "hair__grab_4_trim_74.mp4",
+      "hair__grab_4_trim_75.mp4",
+      "hair__grab_4_trim_76.mp4",
+      "hair__grab_4_trim_77.mp4",
+      "hair__grab_4_trim_78.mp4",
+      "hair__grab_4_trim_79.mp4",
+      "hair__grab_4_trim_8.mp4",
+      "hair__grab_4_trim_80.mp4",
+      "hair__grab_4_trim_81.mp4",
+      "hair__grab_4_trim_82.mp4",
+      "hair__grab_4_trim_83.mp4",
+      "hair__grab_4_trim_84.mp4",
+      "hair__grab_4_trim_85.mp4",
+      "hair__grab_4_trim_86.mp4",
+      "hair__grab_4_trim_87.mp4",
+      "hair__grab_4_trim_88.mp4",
+      "hair__grab_4_trim_89.mp4",
+      "hair__grab_4_trim_9.mp4",
+      "hair__grab_4_trim_90.mp4",
+      "hair__grab_4_trim_91.mp4",
+      "hair__grab_4_trim_92.mp4",
+      "hair__grab_4_trim_93.mp4",
+      "hair__grab_4_trim_94.mp4",
+      "hair__grab_4_trim_95.mp4",
+      "hair__grab_4_trim_96.mp4",
+      "hair__grab_4_trim_97.mp4",
+      "hair__grab_4_trim_98.mp4",
+      "hair__grab_4_trim_99.mp4"
+    ]
+  },
+  "pinned_down_on_the_ground": {
+    "pindown_1": [
+      "pindown_1_trim_0.mp4",
+      "pindown_1_trim_1.mp4",
+      "pindown_1_trim_2.mp4"
+    ],
+    "pindown_3": [
+      "pindown_3_trim_0.mp4",
+      "pindown_3_trim_1.mp4",
+      "pindown_3_trim_2.mp4"
+    ],
+    "pindown_x_001": [
+      "pindown_x_001.mp4"
+    ]
+  },
+  "tackle": {
+    "tackle_1": [
+      "tackle_1_trim_2.mp4"
+    ],
+    "tackle_2": [
+      "tackle_2_trim_1.mp4"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+# Phase 6 — multimodal evaluation over all three pipeline stages.
+defaults:
+  - base
+
+phase: eval
+output: train_model/eval/results.json
+
+data:
+  # Eval must see options in canonical (as-written) order so the letter
+  # parser's verdicts are comparable across stages and across reruns.
+  randomize_options: false
+
+stages:
+  sft: train_model/models/sft
+  cot: train_model/models/cot
+  adpo: train_model/models/adpo
+
+generation:
+  max_new_tokens: 64
+  do_sample: false
+  # InternVL's chat helper is used for generation; it handles the chat template.

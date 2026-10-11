@@ -1,0 +1,19 @@
+# Eval the CoT-SFT checkpoint on training questions to get per-question
+# correctness for adaptive DPO pair generation.
+defaults:
+  - base
+
+phase: eval
+
+data:
+  randomize_options: false
+  test: train_model/data/sft_train.json
+
+stages:
+  cot: train_model/models/cot
+
+generation:
+  max_new_tokens: 64
+  do_sample: false
+
+output: train_model/data/eval_train_cot.json

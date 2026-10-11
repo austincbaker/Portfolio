@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">AI engineering and computer vision</title>
+  <desc id="desc">Austin Baker's portfolio, covering AI systems, computer vision research, and developer platforms.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#132d3a"/>
+      <stop offset="1" stop-color="#203f49"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <path d="M846 0V280M954 0V280M1062 0V280M1170 0V280M810 64H1200M810 140H1200M810 216H1200" stroke="#41606a" stroke-opacity=".35" fill="none"/>
+  <rect x="44" y="43" width="36" height="4" rx="2" fill="#d3b782"/>
+  <g font-family="DejaVu Sans,Arial,sans-serif">
+    <text x="44" y="91" fill="#b9d0d5" font-size="15" font-weight="700" letter-spacing="2">AUSTIN BAKER / PORTFOLIO</text>
+    <text x="41" y="151" fill="#f6f8f7" font-size="46" font-weight="700">AI engineering.</text>
+    <text x="41" y="208" fill="#f6f8f7" font-size="46" font-weight="700">Computer vision.</text>
+    <text x="44" y="249" fill="#b9d0d5" font-size="17">Research · Software · Developer platforms</text>
+  </g>
+  <g fill="none" stroke="#93b9bb" stroke-width="2">
+    <rect x="894" y="56" width="184" height="166" rx="10"/>
+    <rect x="918" y="80" width="136" height="118" rx="5" stroke-opacity=".6"/>
+    <path d="M985 56V36M985 222V242M894 139H874M1078 139H1098"/>
+    <path d="M950 112L1022 112L985 167Z" stroke="#d3b782"/>
+  </g>
+  <g fill="#d3b782">
+    <circle cx="950" cy="112" r="6"/>
+    <circle cx="1022" cy="112" r="6"/>
+    <circle cx="985" cy="167" r="6"/>
+  </g>
+</svg>

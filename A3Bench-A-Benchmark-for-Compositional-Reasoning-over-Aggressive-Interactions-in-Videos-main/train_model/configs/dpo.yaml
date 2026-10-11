@@ -1,0 +1,49 @@
+# Phase 5 — multimodal DPO training, continuing from the Phase 3 CoT-SFT
+# adapter.
+#
+# DPO vs. anchored DPO (ADPO)
+# ---------------------------
+# The loss is:
+#     L = L_dpo + alpha * L_anchor
+#     L_dpo    = -logsigmoid( beta * ((pol_c - ref_c) - (pol_r - ref_r)) )
+#     L_anchor = mean( (pol_c - ref_c)^2 + (pol_r - ref_r)^2 )
+#
+# where `pol_*` and `ref_*` are the sum of log-probs on the *response* tokens
+# (not the prompt) under the current policy and the reference policy
+# (same model, adapter disabled via peft.disable_adapter()).
+#
+#   * dpo.alpha == 0  -> vanilla DPO  (anchor term is skipped entirely)
+#   * dpo.alpha  > 0  -> anchored DPO (ADPO); the anchor penalizes the policy
+#                        for drifting off the reference on both chosen and
+#                        rejected responses.
+#
+# The default below matches the original plan (ADPO with alpha=0.5 baseline).
+# Sweep other values with e.g.
+#     sbatch .../05_dpo.sbatch --override dpo.alpha=0.1 \
+#         --override output_dir=train_model/models/dpo_a01
+defaults:
+  - base
+
+phase: adpo
+output_dir: train_model/models/adpo
+resume_from: train_model/models/cot         # Phase 3 adapter path
+pairs: train_model/data/preference_pairs.json
+
+training:
+  epochs: 1
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 4
+  dataloader_num_workers: 10
+  learning_rate: 5.0e-6                   # DPO is sensitive — start low
+  warmup_ratio: 0.03
+  weight_decay: 0.0
+  max_grad_norm: 1.0
+  logging_steps: 25
+  save_steps: 500
+  save_total_limit: 2
+  bf16: true
+  gradient_checkpointing: true
+
+dpo:
+  beta: 0.1    # Standard DPO temperature on the preference margin.
+  alpha: 0.5   # ADPO anchor weight. Set to 0 to run vanilla DPO.

@@ -1,0 +1,58 @@
+plugins {
+	id 'java'
+}
+
+repositories {
+	mavenLocal()
+	maven {
+		url = 'https://repo.runelite.net'
+		content {
+			includeGroupByRegex("net\\.runelite.*")
+		}
+	}
+	mavenCentral()
+}
+
+def runeLiteVersion = 'latest.release'
+def pluginMainClass = 'com.lootingbagtracker.LootingBagTrackerPluginTest'
+
+dependencies {
+	compileOnly group: 'net.runelite', name:'client', version: runeLiteVersion
+
+	compileOnly 'org.projectlombok:lombok:1.18.30'
+	annotationProcessor 'org.projectlombok:lombok:1.18.30'
+
+	testImplementation 'junit:junit:4.12'
+	testImplementation group: 'net.runelite', name:'client', version: runeLiteVersion
+	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
+}
+
+group = 'com.lootingbagtracker'
+version = '1.0-SNAPSHOT'
+
+java {
+	sourceCompatibility = JavaVersion.VERSION_11
+	targetCompatibility = JavaVersion.VERSION_11
+}
+
+tasks.withType(JavaCompile).configureEach {
+	options.encoding = 'UTF-8'
+}
+
+// Deploy to your local RuneLite sideloaded-plugins directory.
+// Set sideloadedPluginsDir in gradle.properties or pass via -PsideloadedPluginsDir=<path>
+tasks.register('deploy', Copy) {
+	dependsOn jar
+	from jar.archiveFile
+	def defaultDir = "${System.getProperty('user.home')}/.runelite/sideloaded-plugins"
+	into project.findProperty('sideloadedPluginsDir') ?: defaultDir
+	description = 'Copies the plugin jar to the RuneLite sideloaded-plugins directory'
+}
+
+tasks.register('run', JavaExec) {
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = pluginMainClass
+
+	jvmArgs "-ea"
+	args "--developer-mode", "--debug"
+}

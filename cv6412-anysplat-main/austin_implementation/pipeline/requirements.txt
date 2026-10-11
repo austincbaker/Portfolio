@@ -1,0 +1,11 @@
+# Pipeline-specific dependencies (on top of AnySplat's requirements)
+# Install with: pip install -r pipeline/requirements.txt
+
+# SAM3 — unified text-prompted detection + segmentation
+sam3
+
+# InternVL3 — for VLM semantic routing
+transformers>=4.45.0
+
+# Already provided by AnySplat
+# torch, torchvision, gsplat, etc.

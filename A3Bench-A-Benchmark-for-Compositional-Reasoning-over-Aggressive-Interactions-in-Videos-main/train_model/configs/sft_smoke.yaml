@@ -1,0 +1,31 @@
+# Phase 1 smoke test — tiny config to catch bugs in the multimodal path before
+# committing a 24h slot. Trains on the val split (small) for a handful of steps
+# and evaluates on itself.
+defaults:
+  - base
+
+phase: sft_smoke
+output_dir: train_model/models/sft_smoke
+
+data:
+  train: train_model/data/sft_val.json           # use val as a tiny train set
+  val:   train_model/data/sft_val.json
+
+training:
+  epochs: 1
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 1
+  gradient_accumulation_steps: 4
+  learning_rate: 2.0e-4
+  warmup_steps: 20
+  weight_decay: 0.0
+  max_grad_norm: 1.0
+  logging_steps: 5
+  eval_steps: 50
+  save_steps: 50
+  save_total_limit: 1
+  bf16: true
+  gradient_checkpointing: true
+  load_best_model_at_end: false
+  metric_for_best_model: eval_loss
+  max_steps: 100                           # cap the run; ~30-60 min total

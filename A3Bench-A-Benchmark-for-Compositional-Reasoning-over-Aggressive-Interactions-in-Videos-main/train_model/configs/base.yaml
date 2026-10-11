@@ -1,0 +1,54 @@
+# Shared base config for all multimodal training phases.
+# Phase-specific configs (sft.yaml, cot.yaml, dpo.yaml, eval.yaml) merge over
+# this one. CLI `--override key=value` can override any setting at run time.
+
+model:
+  name: OpenGVLab/InternVL2_5-8B
+  torch_dtype: bfloat16
+
+video:
+  videos_dir: videos
+  frames_dir: train_model/data/frames
+  frames_per_video: 8
+  image_size: 448                # InternVL2.5 native input size
+  num_patches_per_frame: 1       # one 448x448 patch per frame (no dynamic tiling)
+
+data:
+  train: train_model/data/sft_train.json
+  val:   train_model/data/sft_val.json      # may be empty; training falls back to no-val mode
+  test:  train_model/data/sft_test.json
+  # claude_mcq_proposal.md Gap B: per-example MCQ option shuffling in the
+  # dataset's __getitem__. Default on for SFT and CoT phases so the model
+  # doesn't memorise a positional prior. eval.yaml forces this off so the
+  # letter parser compares stage-to-stage on the same canonical order.
+  randomize_options: true
+
+# Split ratios applied by train_model/sft/format_data.py.
+# Current configuration: 20 / 0 / 80 (train / val / test) per professor's
+# request. test_ratio is implied as 1 - train_ratio - val_ratio.
+split:
+  train_ratio: 0.2
+  val_ratio:   0.0
+
+# LoRA applied to both the LLM layers and the vision-to-language projector.
+# Vision backbone (InternViT) stays frozen.
+lora:
+  r: 8
+  alpha: 16
+  dropout: 0.05
+  bias: none
+  target_modules:
+    - wqkv           # InternLM2 attention qkv
+    - wo             # InternLM2 attention output
+    - w1             # InternLM2 MLP gate
+    - w2             # InternLM2 MLP down
+    - w3             # InternLM2 MLP up
+    - mlp1.1         # vision-text projector linear 1
+    - mlp1.3         # vision-text projector linear 2
+
+tokenization:
+  # Upper bound on total tokens per sample (image tokens + text). With 8 frames
+  # at 256 image tokens/frame = 2048 image tokens + room for prompt+answer.
+  max_length: 3072
+
+seed: 42

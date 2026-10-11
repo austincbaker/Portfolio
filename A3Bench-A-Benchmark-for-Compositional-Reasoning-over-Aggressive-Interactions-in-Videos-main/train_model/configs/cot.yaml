@@ -1,0 +1,30 @@
+# Phase 3 — multimodal CoT SFT. Continues from Phase 1 adapter.
+defaults:
+  - base
+
+phase: cot
+output_dir: train_model/models/cot
+resume_from: train_model/models/sft   # Phase 1 adapter path
+
+data:
+  train: train_model/data/cot_chains.json
+  val:   train_model/data/sft_val.json
+
+training:
+  epochs: 2
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 1
+  gradient_accumulation_steps: 8
+  dataloader_num_workers: 10
+  learning_rate: 2.0e-4
+  warmup_steps: 100
+  weight_decay: 0.0
+  max_grad_norm: 1.0
+  logging_steps: 25
+  eval_steps: 500
+  save_steps: 500
+  save_total_limit: 2
+  bf16: true
+  gradient_checkpointing: true
+  load_best_model_at_end: true
+  metric_for_best_model: eval_loss
